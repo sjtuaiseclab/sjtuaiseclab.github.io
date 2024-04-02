@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/authors/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://sjtuaiseclab.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

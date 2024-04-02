@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杨磊 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/index.xml" rel="self" type="application/rss+xml" />
+    <description>杨磊</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/avatar_huc8d5a567afb3ccc6a4d8f3f3e084d0eb_195030_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>杨磊</title>
+      <link>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</link>
+    </image>
+    
+    <item>
+      <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

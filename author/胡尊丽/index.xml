@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡尊丽 | 人工智能安全研究实验室·上海交通大学</title>
+    <link>https://example.com/author/%E8%83%A1%E5%B0%8A%E4%B8%BD/</link>
+      <atom:link href="https://example.com/author/%E8%83%A1%E5%B0%8A%E4%B8%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>胡尊丽</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://example.com/author/%E8%83%A1%E5%B0%8A%E4%B8%BD/avatar_hu28d194398b3b3f776ed297b6be4981cb_108696_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>胡尊丽</title>
+      <link>https://example.com/author/%E8%83%A1%E5%B0%8A%E4%B8%BD/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张兴璇 | 人工智能安全研究实验室·上海交通大学</title>
+    <link>https://example.com/author/%E5%BC%A0%E5%85%B4%E7%92%87/</link>
+      <atom:link href="https://example.com/author/%E5%BC%A0%E5%85%B4%E7%92%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>张兴璇</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://example.com/author/%E5%BC%A0%E5%85%B4%E7%92%87/avatar_hu1421f4adc47d14f008fd703ba12c5d36_114714_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>张兴璇</title>
+      <link>https://example.com/author/%E5%BC%A0%E5%85%B4%E7%92%87/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <title>journal</title>
+      <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
+    </image>
+    
+    <item>
+      <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Functionality Equivalence Attack against Deep Neural Network Watermarks and a Defense Method by Neuron Mapping</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Complementary Dynamic Incoherence for DeepFake Video Detection</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Intrusion Detection for IoT Systems with Full Bayesian Possibilistic Clustering and Ensembled Fuzzy Classifiers</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

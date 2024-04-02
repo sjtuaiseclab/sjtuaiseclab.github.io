@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>郭子豪 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E9%83%AD%E5%AD%90%E8%B1%AA/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%83%AD%E5%AD%90%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
+    <description>郭子豪</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <title>郭子豪</title>
+      <link>https://sjtuaiseclab.github.io/author/%E9%83%AD%E5%AD%90%E8%B1%AA/</link>
+    </image>
+    
+    <item>
+      <title>Content-Insensitive Dynamic Lip Feature Extraction for Visual Speaker Authentication against Deepfake Attacks</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

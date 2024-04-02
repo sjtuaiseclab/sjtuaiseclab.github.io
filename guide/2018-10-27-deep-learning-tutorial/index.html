@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 2024年4月2日 --><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.6" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.e2fc9af8af1d06f0acf0c4cfb2788037.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="新手教程内含四个板块，分别为网络课程，常用文档，技术博客，常用网上资源。四个板块中的链接都是主流的深度学习中强有力的学习资料。" />
+
+
+
+<link rel="alternate" hreflang="zh-Hans" href="https://example.com/guide/2018-10-27-deep-learning-tutorial/" />
+<link rel="canonical" href="https://example.com/guide/2018-10-27-deep-learning-tutorial/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://example.com/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="人工智能安全研究实验室·上海交通大学" />
+<meta property="og:url" content="https://example.com/guide/2018-10-27-deep-learning-tutorial/" />
+<meta property="og:title" content="深度学习入门教程 | 人工智能安全研究实验室·上海交通大学" />
+<meta property="og:description" content="新手教程内含四个板块，分别为网络课程，常用文档，技术博客，常用网上资源。四个板块中的链接都是主流的深度学习中强有力的学习资料。" /><meta property="og:image" content="https://example.com/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2018-10-27T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2018-10-27T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>深度学习入门教程 | 人工智能安全研究实验室·上海交通大学</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="0bd5b1650da7126d48beee5c908addd3" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.3a6bdbdff5d8a89d6e651adb3deec035.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">人工智能安全研究实验室·上海交通大学</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">人工智能安全研究实验室·上海交通大学</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/member"><span>成员</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>事件</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>成果</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/guide"><span>科研指南</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>浅色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>深色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>自动</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>深度学习入门教程</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    10月 27, 2018
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>新手教程内含四个板块，分别为网络课程，常用文档，技术博客，常用网上资源。四个板块中的链接都是主流的深度学习中强有力的学习资料。</p>
+<details class="toc-inpage d-print-none  " open>
+  <summary class="font-weight-bold">目录</summary>
+  <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1-网络课程">1. 网络课程</a></li>
+        <li><a href="#2常用文档">2.常用文档</a></li>
+        <li><a href="#3技术博客">3.技术博客</a></li>
+        <li><a href="#4常用网上资源">4.常用网上资源</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</details>
+
+<p><strong>UFLDL和cs231n并行的看，一边做练习一边看理论。优先实践，多看论文，多写代码，可以先用keras上手， 之后转tensorflow/pytorch</strong></p>
+<h3 id="1-网络课程">1. 网络课程</h3>
+<ul>
+<li>UFLDL: <a href="http://ufldl.stanford.edu/tutorial/" target="_blank" rel="noopener">http://ufldl.stanford.edu/tutorial/</a></li>
+<li>Stanford cs231n 官网链接: <a href="http://cs231n.stanford.edu/syllabus.html" target="_blank" rel="noopener">http://cs231n.stanford.edu/syllabus.html</a></li>
+<li>一些论文： <a href="https://github.com/terryum/awesome-deep-learning-papers" target="_blank" rel="noopener"><strong>https://github.com/terryum/awesome-deep-learning-papers</strong></a>
+其中<strong>Convolutional Neural Network Models</strong>这一节下的论文都要看，从旧往新看，看完这个看<strong>object detection</strong>的论文，然后看Seq2seq相关论文。
+<strong>论文看到知道怎么实现才可以称为看懂，最好是自己实现一遍</strong></li>
+</ul>
+<p>tf tutorials: <a href="https://github.com/vahidk/EffectiveTensorflow" target="_blank" rel="noopener">https://github.com/vahidk/EffectiveTensorflow</a></p>
+<h3 id="2常用文档">2.常用文档</h3>
+<p>Keras: <a href="https://keras.io/" target="_blank" rel="noopener">https://keras.io</a>
+<a href="https://github.com/fchollet/keras/tree/master/examples" target="_blank" rel="noopener">https://github.com/fchollet/keras/tree/master/examples</a>
+TensorFlow: <a href="https://www.tensorflow.org/" target="_blank" rel="noopener">https://www.tensorflow.org/</a></p>
+<p><a href="http://docs.w3cub.com/tensorflow~guide/" target="_blank" rel="noopener">http://docs.w3cub.com/tensorflow~guide/</a>
+<a href="http://docs.w3cub.com/tensorflow~python/" target="_blank" rel="noopener">http://docs.w3cub.com/tensorflow~python/</a></p>
+<h3 id="3技术博客">3.技术博客</h3>
+<p>垠神的人生博客：http://www.yinwang.org/blog-cn/2017/04/23/ai</p>
+<p>handong的图像博客：https://handong1587.github.io/deep_learning/2015/10/09/ocr.html</p>
+<p>hetong的文字识别博客：http://tonghe90.github.io</p>
+<p>何恺明博士的主页： <a href="http://kaiminghe.com/" target="_blank" rel="noopener">http://kaiminghe.com/</a> （比较著名的作品有Faster-RCNN, Mask-RCNN, 残差网络, 暗通道先验去雾算法)</p>
+<p>Yarin Gal Bayesian Neural Network: <a href="http://www.cs.ox.ac.uk/people/yarin.gal/website/" target="_blank" rel="noopener">http://www.cs.ox.ac.uk/people/yarin.gal/website/</a> (异端统计学做得比较好的一个哥们)</p>
+<p>Kevin Zakka 讲 Spatial Transformer Network: <a href="https://kevinzakka.github.io/2017/01/18/stn-part2/" target="_blank" rel="noopener">https://kevinzakka.github.io/2017/01/18/stn-part2/</a></p>
+<p>讲tf入门与基础的blog： <a href="https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/" target="_blank" rel="noopener">https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/</a></p>
+<p>CV组的老朋友迪豪大神的知乎：https://www.zhihu.com/people/tobegit3hub/posts</p>
+<p>如何退出vim：https://medium.freecodecamp.org/one-out-of-every-20-000-stack-overflow-visitors-is-just-trying-to-exit-vim-5a6b6175e7b6</p>
+<p>巴黎最强CV实验室WILLOW：https://www.di.ens.fr/willow/research.php</p>
+<p>深度学习500问：https://github.com/scutan90/DeepLearning-500-questions</p>
+<p>SOAT 算法梳理： <a href="https://github.com/BlinkDL/BlinkDL.github.io" target="_blank" rel="noopener">https://github.com/BlinkDL/BlinkDL.github.io</a></p>
+<p>装机瞎倒腾：http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/</p>
+<h3 id="4常用网上资源">4.常用网上资源</h3>
+<p><a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap" target="_blank" rel="noopener">https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap</a>
+<a href="https://github.com/ChristosChristofidis/awesome-deep-learning#researchers" target="_blank" rel="noopener">https://github.com/ChristosChristofidis/awesome-deep-learning#researchers</a>
+<a href="https://github.com/kjw0612/awesome-deep-vision" target="_blank" rel="noopener">https://github.com/kjw0612/awesome-deep-vision</a>
+<a href="https://github.com/amusi/awesome-object-detection" target="_blank" rel="noopener">https://github.com/amusi/awesome-object-detection</a></p>
+<p>gluon-cv:
+<a href="https://gluon-cv.mxnet.io/" target="_blank" rel="noopener">https://gluon-cv.mxnet.io/</a>
+<a href="https://github.com/dmlc/gluon-cv" target="_blank" rel="noopener">https://github.com/dmlc/gluon-cv</a>
+<a href="https://github.com/mrgloom/awesome-semantic-segmentation" target="_blank" rel="noopener">https://github.com/mrgloom/awesome-semantic-segmentation</a></p>
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F&amp;text=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F&amp;t=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B&amp;body=https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F&amp;title=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%20https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fguide%2F2018-10-27-deep-learning-tutorial%2F&amp;title=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a>支持发布——免费<a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.938a3a7554cd9f6602290411f64d2617.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/zh/js/wowchemy.min.e499ac5210725f2a315d15bb494da722.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">引用</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> 复制
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> 下载
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9137013a66774049159934c29c3f0205.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script>
+(function() {
+    
+    function changeText() {
+        var subheadings = document.getElementsByClassName('section-subheading');
+        for (var i = 0; i < subheadings.length; i++) {
+            if (subheadings[i].textContent === '兴趣爱好') {
+                
+                subheadings[i].textContent = '研究方向';
+            }
+            if (subheadings[i].textContent === '教育经历') {
+                
+                subheadings[i].textContent = '教育经历';
+            }
+        }
+        var h3elements = document.querySelectorAll('.article-widget.content-widget-hr h3');
+        h3elements.forEach(function(h3element) {
+            if (h3element.textContent === "最新") {
+                h3element.textContent = "论文列表";
+            }
+        });
+        var publicationLink = document.querySelector('.see-all a[href="/publication/"]');
+        if (publicationLink) {
+            
+            var textNodes = [...publicationLink.childNodes].filter(node => node.nodeType === Node.TEXT_NODE);
+            if (textNodes.length > 0 && textNodes[0].nodeValue.includes('查看全部出版物')) {
+                textNodes[0].nodeValue = '查看全部 ';
+            }
+        }
+    }
+    
+    function hideShareBoxes() {
+        var shareBoxes = document.querySelectorAll('.share-box');
+        shareBoxes.forEach(function(shareBox) {
+            shareBox.style.display = 'none';
+        });
+    }
+
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        changeText();
+        hideShareBoxes();
+    });
+})();
+</script>
+      
+    
+  
+
+
+
+
+
+
+</body>
+</html>

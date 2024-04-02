@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘子涵 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘子涵</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/avatar_huf30613f04b0e5cb77fcf272c971fc9a5_74795_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>刘子涵</title>
+      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
+    </image>
+    
+    <item>
+      <title>An Auto-Encoder Based Method for Camera Fingerprint Compression</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Complementary Dynamic Incoherence for DeepFake Video Detection</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Local Characteristic Enhanced Deepfake Video Detection</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

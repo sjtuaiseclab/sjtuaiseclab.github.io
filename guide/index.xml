@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科研指南 | 人工智能安全研究实验室·上海交通大学</title>
+    <link>https://example.com/guide/</link>
+      <atom:link href="https://example.com/guide/index.xml" rel="self" type="application/rss+xml" />
+    <description>科研指南</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <title>科研指南</title>
+      <link>https://example.com/guide/</link>
+    </image>
+    
+    <item>
+      <title>实验室研究方向（2021.09）</title>
+      <link>https://example.com/guide/2021-09-14-lab-research-focus/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/guide/2021-09-14-lab-research-focus/</guid>
+      <description>&lt;p&gt;目前实验室的研究方向主要分为深度伪造检测、唇语识别、神经网络水印技术以及OCR方向。&lt;/p&gt;
+&lt;h3 id=&#34;深度伪造检测&#34;&gt;&lt;strong&gt;深度伪造检测&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;研究者&lt;/strong&gt;：胡嘉尚，郭子豪，张凯旋&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介&lt;/strong&gt;：深度伪造（Deepfake）一词由深度学习（deep learning）和伪造（fake）结合而来，广义上的深度伪造是指利用深度学习技术，生成图像、音频或者视频的伪造技术，其伪造结果高度逼真，单凭人眼根本无法甄别。作为一种先进的人工智能技术，深度伪造在日常生活中有着广阔的应用场景，比如生成历史人物讲授课程的视频和音频，在线购物时快速生成用户试穿衣服的结果，生成仅供娱乐的有趣换脸视频，快速对用户的图像进行符合要求的修改等方面。然而现实并没有这么理想，深度伪造技术目前更多的用于非法方向，如合成女明星的色情视频、合成政治人物的敏感发言视频、合成未经个人授权的侵犯个人隐私的人脸图像或视频等。为了阻止深度伪造技术的滥用，采用深度学习的方法鉴别深度伪造视频成为了当下重要的研究方向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前工作方向&lt;/strong&gt;：
+- 基于讲话人唇部运动具有一定深度伪造技术无法模仿的规律，使用唇部区域信息或全脸信息进行深度伪造视频的检测
+- 保护特定讲话人的深度伪造检测
+- 对音频进行深度伪造检测
+- 基于整体面部信息进行深度伪造图像检测&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;唇读&#34;&gt;&lt;strong&gt;唇读&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;研究者&lt;/strong&gt;：张群，马兴华&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介&lt;/strong&gt;：人类认知语言的过程除了声音信息之外，也可以通过讲话过程中嘴唇区域的视觉信息对语义理解进行补充。唇语识别任务是一项通过观察讲话人唇部动态变化过程去识别讲话内容的任务。然而，对于大部分没有经过专业训练的普通人而言，唇语识别是一项极具挑战性的任务，尤其是在没有上下文或是讲话内容较长的情况下。Easton 等人的实验表明，即使限定在只有三十种单个字符的情况下，听觉障碍者在唇语识别任务中对于单词的识别准确率最高仅能达到 29%，哪怕是有一定语境的复合词，被测试者也仅能识别 32%的单词。因此，采用深度学习方法进行唇语识别任务是一项十分具有研究意义的课题。但是由于唇部特征变化的细微性、讲话人的差异性以及实际场景变化的复杂性等因素，唇语识别任务也面临着很多的挑战和困难。从理论角度来说，唇语识别任务同时涉及到了图像处理和自然语言处理这两
+个领域的知识，所以往往可以利用这些领域中相对成熟的杰出技术，去推动唇语识别研究的发展。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前工作方向&lt;/strong&gt;：
+- 唇读过程中中间表征的识别
+- 英文的句子级别、单词级别的唇读识别
+- 中文的句子级别、单字或词组的唇读识别&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;神经网络水印&#34;&gt;&lt;strong&gt;神经网络水印&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;研究者&lt;/strong&gt;：李方圻
+&lt;strong&gt;个人主页&lt;/strong&gt;：https://solour-lfq.github.io/&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介&lt;/strong&gt;：随着海量数据的收集能力提升以及硬件设备计算能力的极大提升，基于深度神经网络的人工智能技术得到了快速发展，广泛应用于包括计算机视觉、自然语言处理、物联网及车联网的各种领域，涵盖目标检测、人脸识别、视频生成、自动驾驶等多个具体应用方向，其工作效果和效率远远高于人类，促进了生产技术的变革和生产力的发展。
+  然而，训练一个有效的深度神经网络模型是需要大量开销的。首先需要在相关理论的支撑下对网络模型和算法进行设计，然后需要收集和预处理海量数据，最后需要消耗大量计算资源，通过数据的前向传播和梯度的反向传播对网络参数进行调整，这一过程需要消耗大量电力资源。与训练一个深度神经网络模型相反，使用一个已经训练好的模型则更加方便，用户只需要将数据输入模型，经过前向传播得到模型的预测结果即可。鉴于有效训练这些模型需要大量的专业知识、数据和计算资源，训练后得到的有效深度神经网络模型可以认为是重要的数字资产，并作为服务提供给用户使用，但在这一过程中恶意用户可能会企图非法使用甚至窃取相关模型。此外，一些公司将训练好的深度神经网络模型直接进行出售，但是又担心该
+模型会被非授权转售或泄露给第三方未授权用户。因此，在深度学习这一领域需要一种能够证明模型版权所有者的方法，这一方向当前最有影响力的是神经网络数字水印技术。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前工作方向&lt;/strong&gt;：
+- 复杂机器学习场景（联邦学习、蒸馏学习等）的神经网络数字水印嵌入技术
+- 神经网络水印检测技术与隐写技术&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ocr&#34;&gt;&lt;strong&gt;OCR&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;研究者&lt;/strong&gt;：黄毅力，杨磊&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介&lt;/strong&gt;：OCR（Optical Character Recognition，光学字符识别）是指电子设备（例如扫描仪或数码相机）检查纸上打印的字符，通过检测暗、亮的模式确定其形状，然后用字符识别方法将形状翻译成计算机文字的过程。本组的工作主要聚焦于实用场景下的票据单据的OCR识别。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前工作方向&lt;/strong&gt;：
+- 密集字体堆叠下的票据识别算法
+- 污染图像的复原与识别&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IS403人工智能导论学习资料</title>
+      <link>https://example.com/guide/2019-09-06-is403-material/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/guide/2019-09-06-is403-material/</guid>
+      <description>&lt;h3 id=&#34;课程ftp&#34;&gt;课程FTP&lt;/h3&gt;
+&lt;p&gt;内含所有课程内容相关 PPT：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;ftp://public.sjtu.edu.cn&#34;&gt;ftp://public.sjtu.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;用户名:&lt;strong&gt;wsl&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;密码:&lt;strong&gt;public&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;课程 PPT 在&lt;code&gt;Introduction to AI Lecture notes&lt;/code&gt;文件夹下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>深度学习入门教程</title>
+      <link>https://example.com/guide/2018-10-27-deep-learning-tutorial/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/guide/2018-10-27-deep-learning-tutorial/</guid>
+      <description>&lt;p&gt;新手教程内含四个板块，分别为网络课程，常用文档，技术博客，常用网上资源。四个板块中的链接都是主流的深度学习中强有力的学习资料。&lt;/p&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;目录&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-网络课程&#34;&gt;1. 网络课程&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2常用文档&#34;&gt;2.常用文档&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#3技术博客&#34;&gt;3.技术博客&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#4常用网上资源&#34;&gt;4.常用网上资源&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;p&gt;&lt;strong&gt;UFLDL和cs231n并行的看，一边做练习一边看理论。优先实践，多看论文，多写代码，可以先用keras上手， 之后转tensorflow/pytorch&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-网络课程&#34;&gt;1. 网络课程&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UFLDL: &lt;a href=&#34;http://ufldl.stanford.edu/tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ufldl.stanford.edu/tutorial/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stanford cs231n 官网链接: &lt;a href=&#34;http://cs231n.stanford.edu/syllabus.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cs231n.stanford.edu/syllabus.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一些论文： &lt;a href=&#34;https://github.com/terryum/awesome-deep-learning-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;https://github.com/terryum/awesome-deep-learning-papers&lt;/strong&gt;&lt;/a&gt;
+其中&lt;strong&gt;Convolutional Neural Network Models&lt;/strong&gt;这一节下的论文都要看，从旧往新看，看完这个看&lt;strong&gt;object detection&lt;/strong&gt;的论文，然后看Seq2seq相关论文。
+&lt;strong&gt;论文看到知道怎么实现才可以称为看懂，最好是自己实现一遍&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tf tutorials: &lt;a href=&#34;https://github.com/vahidk/EffectiveTensorflow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/vahidk/EffectiveTensorflow&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2常用文档&#34;&gt;2.常用文档&lt;/h3&gt;
+&lt;p&gt;Keras: &lt;a href=&#34;https://keras.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keras.io&lt;/a&gt;
+&lt;a href=&#34;https://github.com/fchollet/keras/tree/master/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/fchollet/keras/tree/master/examples&lt;/a&gt;
+TensorFlow: &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tensorflow.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://docs.w3cub.com/tensorflow~guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://docs.w3cub.com/tensorflow~guide/&lt;/a&gt;
+&lt;a href=&#34;http://docs.w3cub.com/tensorflow~python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://docs.w3cub.com/tensorflow~python/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3技术博客&#34;&gt;3.技术博客&lt;/h3&gt;
+&lt;p&gt;垠神的人生博客：http://www.yinwang.org/blog-cn/2017/04/23/ai&lt;/p&gt;
+&lt;p&gt;handong的图像博客：https://handong1587.github.io/deep_learning/2015/10/09/ocr.html&lt;/p&gt;
+&lt;p&gt;hetong的文字识别博客：http://tonghe90.github.io&lt;/p&gt;
+&lt;p&gt;何恺明博士的主页： &lt;a href=&#34;http://kaiminghe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://kaiminghe.com/&lt;/a&gt; （比较著名的作品有Faster-RCNN, Mask-RCNN, 残差网络, 暗通道先验去雾算法)&lt;/p&gt;
+&lt;p&gt;Yarin Gal Bayesian Neural Network: &lt;a href=&#34;http://www.cs.ox.ac.uk/people/yarin.gal/website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cs.ox.ac.uk/people/yarin.gal/website/&lt;/a&gt; (异端统计学做得比较好的一个哥们)&lt;/p&gt;
+&lt;p&gt;Kevin Zakka 讲 Spatial Transformer Network: &lt;a href=&#34;https://kevinzakka.github.io/2017/01/18/stn-part2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kevinzakka.github.io/2017/01/18/stn-part2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;讲tf入门与基础的blog： &lt;a href=&#34;https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CV组的老朋友迪豪大神的知乎：https://www.zhihu.com/people/tobegit3hub/posts&lt;/p&gt;
+&lt;p&gt;如何退出vim：https://medium.freecodecamp.org/one-out-of-every-20-000-stack-overflow-visitors-is-just-trying-to-exit-vim-5a6b6175e7b6&lt;/p&gt;
+&lt;p&gt;巴黎最强CV实验室WILLOW：https://www.di.ens.fr/willow/research.php&lt;/p&gt;
+&lt;p&gt;深度学习500问：https://github.com/scutan90/DeepLearning-500-questions&lt;/p&gt;
+&lt;p&gt;SOAT 算法梳理： &lt;a href=&#34;https://github.com/BlinkDL/BlinkDL.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/BlinkDL/BlinkDL.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;装机瞎倒腾：http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/&lt;/p&gt;
+&lt;h3 id=&#34;4常用网上资源&#34;&gt;4.常用网上资源&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap&lt;/a&gt;
+&lt;a href=&#34;https://github.com/ChristosChristofidis/awesome-deep-learning#researchers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ChristosChristofidis/awesome-deep-learning#researchers&lt;/a&gt;
+&lt;a href=&#34;https://github.com/kjw0612/awesome-deep-vision&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/kjw0612/awesome-deep-vision&lt;/a&gt;
+&lt;a href=&#34;https://github.com/amusi/awesome-object-detection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/amusi/awesome-object-detection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;gluon-cv:
+&lt;a href=&#34;https://gluon-cv.mxnet.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gluon-cv.mxnet.io/&lt;/a&gt;
+&lt;a href=&#34;https://github.com/dmlc/gluon-cv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/dmlc/gluon-cv&lt;/a&gt;
+&lt;a href=&#34;https://github.com/mrgloom/awesome-semantic-segmentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mrgloom/awesome-semantic-segmentation&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>linux入门与服务器使用指南</title>
+      <link>https://example.com/guide/2018-03-05-linux-guide-and-server-usage-manual/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/guide/2018-03-05-linux-guide-and-server-usage-manual/</guid>
+      <description>&lt;p&gt;实践中，模型的训练往往需要在带GPU的服务器上进行，如果对linux服务器接触不深，可以参考以下学习资料。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;本教程并非一个从零开始或者完全指南，你需要以下能力:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;了解linux 文件结构&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;能使用命令行在各个路径下自由切换，查看文件夹和文件属性等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;了解什么是环境变量.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;了解两个重要的文件的作用： /etc/profile, ~/.bashrc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用过pip安装package,在自己代码中使用过自己安装的package&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;看完本教程你将会掌握一下能力&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在无root权限的情况下自由的使用服务器&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自己编译软件，拥有不google也可以解决依赖各种不对应的问题的能力。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用conda管理自己的环境，管理自己的依赖包&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;任何包都可以&lt;strong&gt;不使用root安装&lt;/strong&gt;(不考虑与系统密切相关的包)。&lt;/li&gt;
+&lt;li&gt;没有完整看过&lt;a href=&#34;https://conda.io/docs/user-guide/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conda官方参考文档&lt;/a&gt; 必须阅读第四章。&lt;/li&gt;
+&lt;li&gt;需要自己编译安装软件的,比如caffe，py-faster-rcnn等，必须阅读第三章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;内容较多，请按需阅读。&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;目录&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#1-常用命令&#34;&gt;1. 常用命令&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#10-必须掌握&#34;&gt;1.0 必须掌握&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#11-翻墙&#34;&gt;1.1 翻墙&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#12-权限&#34;&gt;1.2 权限&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#13-访问服务器&#34;&gt;1.3 访问服务器&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#14-服务器间传输文件&#34;&gt;1.4 服务器间传输文件&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#2-安装软件&#34;&gt;2. 安装软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#3头文件和链接库&#34;&gt;3.头文件和链接库&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#31-compile-time&#34;&gt;3.1 Compile Time&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#32-run-time&#34;&gt;3.2 Run Time&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#33-有用的命令&#34;&gt;3.3 有用的命令&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#4-conda环境管理&#34;&gt;4. conda环境管理&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#41-管理环境&#34;&gt;4.1 管理环境&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#42-使用环境&#34;&gt;4.2 使用环境&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#43-创建环境&#34;&gt;4.3 创建环境&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#44-安装卸载package&#34;&gt;4.4 安装卸载package&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#45-目录结构&#34;&gt;4.5 目录结构&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;1-常用命令&#34;&gt;1. 常用命令&lt;/h2&gt;
+&lt;h3 id=&#34;10-必须掌握&#34;&gt;1.0 必须掌握&lt;/h3&gt;
+&lt;h4 id=&#34;101-命令&#34;&gt;1.0.1 命令&lt;/h4&gt;
+&lt;p&gt;具体使用方法自行百度或Google。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd, ls, mkdir&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;find&lt;/code&gt; 配合grep 查找文件很方便&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;locate&lt;/code&gt; 直接定位文件位置,速度极快，系统将所有文件建立了一个索引，所以新增的文件需要一段时间才可以locate到. 如&lt;code&gt;locate libhdf5.so&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;which&lt;/code&gt; 查找命令的完整路径. 如&lt;code&gt;which top&lt;/code&gt;会输出&lt;code&gt;/usr/bin/top&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;grep&lt;/code&gt; 可以过滤输出流的文本&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;top&lt;/code&gt; 查看正在运行的进程&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;nvidia-smi&lt;/code&gt; 查看显卡占用情况&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;df -h&lt;/code&gt; 查看磁盘挂载和已用情况&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;screen&lt;/code&gt; 或者&lt;code&gt;tmux&lt;/code&gt; 在这些窗口中运行的任务，即使关掉你的终端也不会被杀掉，否则一旦ssh连接关闭任务会被杀死。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;102-环境变量&#34;&gt;1.0.2 环境变量&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;/etc/profile&lt;/code&gt;(root才有写权限)和&lt;code&gt;~/.bashrc&lt;/code&gt;是每次通过&lt;code&gt;ssh&lt;/code&gt;登陆服务器都会运行的脚本。运行顺序是 &lt;code&gt;/etc/profile&lt;/code&gt;-&amp;gt;&lt;code&gt;~/.bashrc&lt;/code&gt;。
+一些希望每次登陆后都生效的环境变量可以放在&lt;code&gt;~/.bashrc&lt;/code&gt;里面。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;PATH&lt;/code&gt;: 额外的可执行文件搜索路径&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CPATH&lt;/code&gt;: 额外的头文件搜索路径&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;LD_LIBRARY_PATH&lt;/code&gt;: 额外的RunTime 搜索路径&lt;/li&gt;
+&lt;li&gt;上面的路径都会添加到系统标准路径之前。 可以&lt;code&gt;vim /etc/profile&lt;/code&gt;查看示例。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;11-翻墙&#34;&gt;1.1 翻墙&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;proxychains4 your-command&lt;/code&gt;比如&lt;code&gt;proxychains4 curl www.google.com&lt;/code&gt;服务器上翻墙免费提供，&lt;strong&gt;如果想其他平台linux/macOs/windows/ios/android等翻墙，欢迎赞助&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;12-权限&#34;&gt;1.2 权限&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ll&lt;/code&gt;, &lt;code&gt;chmod&lt;/code&gt;
+&lt;a href=&#34;http://cn.linux.vbird.org/linux_basic/0210filepermission.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;鸟哥的linux私房菜-第六章linux的文件权限与目录配置&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;13-访问服务器&#34;&gt;1.3 访问服务器&lt;/h3&gt;
+&lt;h4 id=&#34;131-windows&#34;&gt;1.3.1 Windows&lt;/h4&gt;
+&lt;p&gt;安装&lt;a href=&#34;https://mobaxterm.mobatek.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MobaXterm&lt;/a&gt;, 自带x11图形转发，使用会产生图形界面的命令就像本地显示屏一样弹出图形界面。&lt;/p&gt;
+&lt;h4 id=&#34;132-linux-mac&#34;&gt;1.3.2 Linux, Mac&lt;/h4&gt;
+&lt;p&gt;命令行&lt;code&gt;ssh -p port username@host-ip&lt;/code&gt;, 推荐添加公钥访问&lt;a href=&#34;https://www.cnblogs.com/Percy_Lee/p/5698603.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;使用ssh公钥实现免密访问&lt;/a&gt;。Mac 需要&lt;strong&gt;安装X11&lt;/strong&gt;才能进行x11转发，Ubuntu自带。&lt;/p&gt;
+&lt;p&gt;*&lt;strong&gt;uix平台建议添加config文件，这样登陆远程服务器不需要冗长的命令。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;添加文件&lt;code&gt;~/.ssh/config&lt;/code&gt;,添加内容类似下面&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HOST ss2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    HostName wsl2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    #or ip
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    #HostName 192.168.1.140
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Port 10010
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    User klaus
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ServerAliveInterval 30
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;HOST ss1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    HostName wsl1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Port 10086
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    User klaus
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ServerAliveInterval 30
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;添加以后命令行输入&lt;code&gt;ssh ss1&lt;/code&gt;即可登陆wsl1，账号是klaus。使用&lt;code&gt;ssh other-username@ss1&lt;/code&gt;则以other-username登陆。&lt;/p&gt;
+&lt;h3 id=&#34;14-服务器间传输文件&#34;&gt;1.4 服务器间传输文件&lt;/h3&gt;
+&lt;h4 id=&#34;141-从远程服务器拉到本地&#34;&gt;1.4.1 从远程服务器拉到本地&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;单个文件推荐 &lt;code&gt;scp [-r] -P port username@host-ip:/path/to/your/file /save/to/here&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;大量文件推荐，可断点续传 &lt;code&gt;sync -avz -P -e &amp;quot;ssh -p $portNumber&amp;quot; user@remoteip:/path/to/files/ /local/path/&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;142-从本地推到远程服务器&#34;&gt;1.4.2 从本地推到远程服务器&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;单个文件推荐 &lt;code&gt;scp [-r] -P port /your/data/path username@host-ip:/path/to/save&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;大量文件推荐，可端点续传 &lt;code&gt;rsync -avz -P -e &amp;quot;ssh -p $portNumber&amp;quot; /local/path/ user@remoteip:/path/to/files/&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;在&lt;code&gt;wsl1(192.168.1.139)&lt;/code&gt;和&lt;code&gt;wsl2(192.168.1.140)&lt;/code&gt;之间传输数据，ip地址请写内网ip，或者写&lt;code&gt;wsl1&lt;/code&gt;或者&lt;code&gt;wsl2&lt;/code&gt;，服务器会自动解析到对应ip。内网间传输文件可以达到100MB/S&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-安装软件&#34;&gt;2. 安装软件&lt;/h2&gt;
+&lt;p&gt;linux下一般称软件为包(package)。安装方法有包管理器安装和手动编译。安装以后的东西主要分为三个部分:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可执行文件. &lt;strong&gt;一般保存在&lt;code&gt;/\**/bin&lt;/code&gt;下&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;头文件. c/c++的头文件，一般是作为别的package的依赖。&lt;strong&gt;一般保存在&lt;code&gt;/\**/include&lt;/code&gt;下&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;链接库. 动态链接库.so和静态链接库.a. 一般作为别的package的依赖.&lt;strong&gt;一般保存在&lt;code&gt;/\**/lib&lt;/code&gt;或者&lt;code&gt;/\**/lib64&lt;/code&gt;下&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3头文件和链接库&#34;&gt;3.头文件和链接库&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;头文件&lt;/strong&gt;一般是c/c++的头文件,后缀名为&lt;code&gt;.h,.hxx,.hpp&lt;/code&gt;等.
+&lt;strong&gt;链接库&lt;/strong&gt;分为动态链接库和静态链接库,linux上后缀名分别为&lt;code&gt;.so&lt;/code&gt;和&lt;code&gt;.a&lt;/code&gt;,实质上是&lt;strong&gt;一堆编译后的c/cpp文件(.o)打包成.so或.a&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;静态链接库.a会被嵌入到编译的程序中，但是动态链接库不会，需要在运行时找到.so文件才能运行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般的软件都会依赖很多package(头文件和链接库)。编译软件时称为&lt;strong&gt;Compile Time&lt;/strong&gt;, 运行软件时称为&lt;strong&gt;Run Time&lt;/strong&gt;.在 &lt;strong&gt;Compile Time&lt;/strong&gt;需要让编译器找到它所依赖的头文件和链接库，在&lt;strong&gt;Run Time&lt;/strong&gt;需要让可执行文件找到它所以来的动态链接库。&lt;strong&gt;Compile Time&lt;/strong&gt;和&lt;strong&gt;Run Time&lt;/strong&gt;寻找依赖的路径是&lt;strong&gt;不一样&lt;/strong&gt;的，也就是说&lt;strong&gt;即时编译通过，在运行的时候也会存在找不到动态链接库的情况，一般会报&lt;code&gt;no defined reference to ...&lt;/code&gt;错误&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;31-compile-time&#34;&gt;3.1 Compile Time&lt;/h3&gt;
+&lt;p&gt;在我们服务器上,查看头文件和链接库的&lt;code&gt;search path&lt;/code&gt;, run &lt;code&gt;cpp -v /dev/null -o /dev/null&lt;/code&gt;。编译器会根据&lt;code&gt;search path&lt;/code&gt;从头一个一个的查找对应的头文件和链接库。也就是说如果安装了同一个package的不同版本，出现在前面的会覆盖掉后面的。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt; &lt;span class=&#34;cpf&#34;&gt;&amp;lt;...&amp;gt; search starts here:&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;local&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cudnn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;6.0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;include&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gcc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;redhat&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;linux&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;4.8.5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;include&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;local&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;include&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;include&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;LIBRARY_PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gcc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;redhat&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;linux&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;4.8.5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gcc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;redhat&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;linux&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;4.8.5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gcc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x86_64&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;redhat&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;linux&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;4.8.5&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;..&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;上面的目录分别是编译器寻找头文件和链接库的&lt;code&gt;search path&lt;/code&gt;，寻找顺序按照路径先后顺序。&lt;/p&gt;
+&lt;h4 id=&#34;311-那如果我想要编译的包的依赖不在上面的路径中怎么办&#34;&gt;3.1.1 &lt;strong&gt;那如果我想要编译的包的依赖不在上面的路径中怎么办？&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;有两种方法:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;编译选项添加gcc/g++的Flags, &lt;code&gt;-I&lt;/code&gt;, &lt;code&gt;-L&lt;/code&gt;。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-I&lt;/code&gt;添加寻找头文件的目录，&lt;code&gt;-L&lt;/code&gt;添加寻找链接库的目录，这两个flag可以添加多个。&lt;/p&gt;
+&lt;p&gt;如&lt;code&gt;g++ test.cpp -lmylib -L/path/to/your/lib/dir -I/path/to/your/include/dir -I/path/to/your/include/dir2&lt;/code&gt;，这一行命令告诉编译器去&lt;code&gt;/path/to/your/include/dir&lt;/code&gt;和&lt;code&gt;/path/to/your/include/dir2&lt;/code&gt;目录下找头文件，去&lt;code&gt;/path/to/your/lib/dir&lt;/code&gt;找链接库，如果没找到就会去系统标准的&lt;code&gt;search path&lt;/code&gt;中去找。&lt;code&gt;-l&lt;/code&gt;告诉编译器去寻找的动态链接库的名字，如&lt;code&gt;-lmylib&lt;/code&gt;会去寻找名称为&lt;code&gt;libmylib.so&lt;/code&gt;或者&lt;code&gt;libmylib.a&lt;/code&gt;链接库&lt;code&gt;(lib + mylib + .so/.a)&lt;/code&gt;。需要寻找的头文件的名称已在源代码的&lt;code&gt;#include &amp;quot;&amp;quot;&lt;/code&gt;中指定了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;添加环境变量 &lt;code&gt;CPATH&lt;/code&gt;和&lt;code&gt;LIBRARY_PATH&lt;/code&gt;&lt;/strong&gt;
+&lt;code&gt;CPATH&lt;/code&gt;是指定额外头文件的&lt;code&gt;search path&lt;/code&gt;，多个目录以冒号&lt;code&gt;:&lt;/code&gt;分隔。
+&lt;code&gt;LIBRARY_PATH&lt;/code&gt;是指定额外lib的&lt;code&gt;search path&lt;/code&gt;,多个目录以冒号&lt;code&gt;:&lt;/code&gt;分隔。&lt;strong&gt;特别需要注意的是，在64位系统上，每一个添加的目录，系统默认编译的gcc/g++会添加两个目录，&lt;code&gt;${your-dir}/../lib64&lt;/code&gt;和&lt;code&gt;${your-dir}&lt;/code&gt;。并且，对于所有目录&lt;code&gt;lib64&lt;/code&gt;会位于&lt;code&gt;lib&lt;/code&gt;之前,就是说所有&lt;code&gt;${any-prefix}/lib&lt;/code&gt;目录都会位于所有&lt;code&gt;${any-prefix}/lib64&lt;/code&gt;之后。&lt;/strong&gt;
+&lt;code&gt;CPATH&lt;/code&gt;和&lt;code&gt;LIBRARY_PATH&lt;/code&gt;会添加到&lt;code&gt;-I,-L&lt;/code&gt;添加的目录之后，系统标准目录之前。
+例如添加&lt;code&gt;/usr/local/lib&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;LIBRARY_PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;local&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#如果LIBRARY_PATH不为空, 命令行输入echo $LIBRARY_PATH 打印不为空&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#加上一个:$LIBRARY_PATH会在原有$LIBRARY_PATH前面再加上你想加的路径&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;LIBRARY_PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;usr&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;local&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;lib&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;LIBRARY_PATH&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;添加之后&lt;code&gt;search path&lt;/code&gt;变为&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LIBRARY_PATH=/usr/local/lib/../lib64/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib/gcc/x86_64-redhat-linux/4.8.5/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib/../lib64/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib/../lib64/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/local/lib/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib/:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib/
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#/usr/local/lib64排在第一位，但是/usr/local/lib在/lib64,/usr/lib64之后
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;312-search-path-order&#34;&gt;3.1.2 SEARCH PATH order&lt;/h4&gt;
+&lt;p&gt;现在我们有&lt;code&gt;-I,-L&lt;/code&gt;,&lt;code&gt;CPATH, LIBRARY_PATH&lt;/code&gt;两种方式添加额外的path，还有一个后面会讲的&lt;code&gt;LD_LIBRARY_PATH&lt;/code&gt;，这三种方法都会对编译器的search path产生影响。
+假设&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LD_LIBRARY_PATH=dirlist
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ld ... -Lpath1 ... -Lpathn ...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;LIBRARY_PATH=libpathlist
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;那么search path 顺序为:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# -L &amp;gt; LD_LIBRARY_PATH &amp;gt; LIBRARY_PATH
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;path1 ... pathn dirlist libpathlist
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;32-run-time&#34;&gt;3.2 Run Time&lt;/h3&gt;
+&lt;p&gt;Run Time 即为程序运行加载的时候。Compile Time中&lt;code&gt;-L&lt;/code&gt;和&lt;code&gt;LIBRARY_PATH&lt;/code&gt;不会对Run Time 产生任何影响。也就是说，在运行程序的时候&lt;code&gt;-L&lt;/code&gt;或者&lt;code&gt;LIBRARY_PATH&lt;/code&gt;指定的额外路径如果没有被添加到runtime的search path里去，那么程序将会找不到对应的lib！&lt;/p&gt;
+&lt;h4 id=&#34;321-run-time-search-path-order&#34;&gt;3.2.1 Run Time Search Path Order&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;rpath. 编译时指定的路径，如&lt;code&gt;g++ -o hello hello.c -Wl,-rpath,/usr/local/lib/hello/B,-rpath,/usr/local/lib/hello/A&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LD_LIBRARY_PATH. 该环境变量中指定的路径。&lt;strong&gt;它的一个副作用是它的路径会影响编译器编译的路径，见3.1.2&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;/etc/ld.so.conf 中指定的路径. 通过&lt;code&gt;ldconfig -v 2&amp;amp;gt;/dev/null | grep -v ^$&#39;\t&#39;&lt;/code&gt;查看&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;(klaus_all) [klaus@wsl1 build]$ ldconfig -v 2&amp;amp;gt;/dev/null | grep -v ^$&amp;#39;\t&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib64/dyninst:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib64/iscsi:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib64/mysql:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/usr/lib64/qt-3.3/lib:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib64:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib/sse2: (hwcap: 0x0000000004000000)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib64/sse2: (hwcap: 0x0000000004000000)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/lib64/tls: (hwcap: 0x8000000000000000)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;/lib64,/usr/lib64,/lib,/usr/lib. 默认路径。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;一般的程序的rpath只有当前程序所在目录，所以如果你依赖了3和4中没有的路径的,你需要额外指定&lt;code&gt;LD_LIBRARY_PATH&lt;/code&gt;, 比如 &lt;code&gt;export LD_LIBRARY_PATH=/some/path:$LD_LIBRARY_PATH&lt;/code&gt;,为了方便可以将这一句添加到&lt;code&gt;~/.bashrc&lt;/code&gt;中。&lt;/p&gt;
+&lt;h3 id=&#34;33-有用的命令&#34;&gt;3.3 有用的命令&lt;/h3&gt;
+&lt;p&gt;弄清楚了Compile Time 和Run Time 的search path，在编译程序，运行程序中遇到的问题基本可以自己解决了。有几个常用的命令可以帮助定位问题.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ldd.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;查看一个lib或者executable所依赖的.so和其link的路径。如&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;(klaus_all) [klaus@wsl1 build]$ ldd libextract_dct.so
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    linux-vdso.so.1 =&amp;gt;  (0x00007ffd9876c000)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    libjpeg.so.9 =&amp;gt; /home/klaus/.conda/envs/klaus_all/lib/libjpeg.so.9 (0x00007fe23df50000)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    libc.so.6 =&amp;gt; /lib64/libc.so.6 (0x00007fe23db72000)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    /lib64/ld-linux-x86-64.so.2 (0x00007fe23e38f000)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;nm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;列出一个lib或者executable定义的所有symbol.如&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;(klaus_all) [klaus@wsl1 build]$ nm libextract_dct.so
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0000000000202088 B __bss_start
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0000000000202088 b completed.6337
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 w __cxa_finalize@@GLIBC_2.2.5
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...skipped...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_finish_decompress@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_read_coefficients@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_read_header@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_save_markers@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_std_error@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U jpeg_stdio_src@@LIBJPEG_9.0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 w _Jv_RegisterClasses
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                 U malloc@@GLIBC_2.2.5
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0000000000000b18 T read_jpeg
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0000000000000a60 t register_tm_clones
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;0000000000202088 d __TMC_END__
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;readelf -d.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;列出ELF文件的信息,可以用来查看rpath. 如&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;(klaus_all) [klaus@wsl1 build]$ readelf -d libextract_dct.so
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Dynamic section at offset 0x1de8 contains 27 entries:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  Tag        Type                         Name/Value
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x0000000000000001 (NEEDED)             Shared library: [libjpeg.so.9]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x0000000000000001 (NEEDED)             Shared library: [libc.so.6]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x000000000000000e (SONAME)             Library soname: [libextract_dct.so]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x000000000000000f (RPATH)              Library rpath: [/home/klaus/.conda/envs/klaus_all/lib/libjpeg.so:/home/klaus/.conda/envs/klaus_all/lib]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x000000000000000c (INIT)               0x918
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;...skipped...
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x000000006ffffff9 (RELACOUNT)          3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 0x0000000000000000 (NULL)               0x0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-conda环境管理&#34;&gt;4. conda环境管理&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://conda.io/docs/user-guide/tasks/manage-environments.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conda&lt;/a&gt;是python的一个包管理器，但是它&lt;strong&gt;不仅仅是&lt;/strong&gt;一个python的包管理器。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;环境管理。你可以创建任意多的环境，每个环境可以安装不同的包，不同的版本，每个环境之间互相不影响。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;它可以安装非python包&lt;/strong&gt;,如&lt;code&gt;tmux&lt;/code&gt;, &lt;code&gt;cmake&lt;/code&gt;, &lt;code&gt;hdf5&lt;/code&gt;等等.需要什么可以先去google一下,比如搜索&amp;quot;tmux conda&amp;quot;，或者直接去&lt;a href=&#34;http://202.120.36.7:40222/61/anaconda.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anaconda Cloud&lt;/a&gt;搜索是否有对应的包。&lt;/li&gt;
+&lt;li&gt;兼容pip. **可以使用pip安装python包而不需要root权限。**推荐首先查看conda上是否有这个包，如果没有再使用pip安装。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;41-管理环境&#34;&gt;4.1 管理环境&lt;/h3&gt;
+&lt;p&gt;服务器上配置好了几个环境:
+- &lt;code&gt;root&lt;/code&gt;. 安装好miniconda后干净的环境，仅含有必要的几个包。
+- &lt;code&gt;common&lt;/code&gt;. 常用的几个python包，编译caffe所有需要的依赖也在common中装好了。没有安装任何框架。
+- &lt;code&gt;dl-2.7&lt;/code&gt;. 装好了keras, tensorflow, pytorch等深度学习框架。python版本为2.7&lt;/p&gt;
+&lt;p&gt;这两个环境只有&lt;code&gt;root&lt;/code&gt;用户有权限更改（安装,删除package）,但是所有用户都有使用权限(read)。&lt;/p&gt;
+&lt;h3 id=&#34;42-使用环境&#34;&gt;4.2 使用环境&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;查看环境. &lt;code&gt;conda env list&lt;/code&gt;. 查看所有的环境,其它用户的环境不可见。&lt;/li&gt;
+&lt;li&gt;查看当前环境中安装的包. &lt;code&gt;conda list&lt;/code&gt;. 加上&lt;code&gt;grep&lt;/code&gt;可以&lt;/li&gt;
+&lt;li&gt;激活环境. &lt;code&gt;source activate env-name&lt;/code&gt;. env-name为环境名称如common, dl-2.7, 下同。&lt;/li&gt;
+&lt;li&gt;停止环境. &lt;code&gt;source deactivate env-name&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果某个环境会经常&lt;/p&gt;
+&lt;h3 id=&#34;43-创建环境&#34;&gt;4.3 创建环境&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;conda create -n env-name&lt;/code&gt; 创建一个名为env-name的环境，&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;conda create -n env-name numpy scipy&lt;/code&gt; 创建一个包含numpy和scipy包的环境&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;conda create -n env-name scipy=0.15.0&lt;/code&gt; 指定package的版本&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;conda create -n env-name --clone cloned-env&lt;/code&gt; 克隆cloned-env到env-name中，所有cloned-env中的包都会被克隆岛env-name中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;自己创建的环境有写权限，你可以对它做任何事情&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;44-安装卸载package&#34;&gt;4.4 安装卸载package&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;conda install package-name 安装&lt;/li&gt;
+&lt;li&gt;conda remove package-name 卸载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;conda 自带了几个default channel(类似仓库，每个仓库里有很多package), 但有很多额外的channel，使用上面安装命令找不到的包在其它channel可能会找到。可以去google &lt;code&gt;package-name conda&lt;/code&gt; 或者&lt;a href=&#34;http://202.120.36.7:40222/61/anaconda.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anaconda Cloud&lt;/a&gt;搜索是否存在。&lt;/p&gt;
+&lt;h3 id=&#34;45-目录结构&#34;&gt;4.5 目录结构&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;root&lt;/code&gt;创建的环境都会被安装到&lt;code&gt;$CONDA_INSTALL_PATH/envs&lt;/code&gt;下，其它用户创建的环境会被安装到&lt;code&gt;~/.conda/envs&lt;/code&gt;下.&lt;/p&gt;
+&lt;p&gt;每个环境下有三个重要的目录:
+- bin
+- include
+- lib&lt;/p&gt;
+&lt;p&gt;这对应了第二章的三部分。使用conda安装的bin会默认添加到&lt;code&gt;PATH&lt;/code&gt;里去(可以在命令行直接运行)。&lt;strong&gt;include 和 lib文件夹下的东西不会添加到CompileTime/RunTime 的 search path里去&lt;/strong&gt;，所以你需要编译运行什么软件可以将这两个目录分别添加到&lt;code&gt;CPATH&lt;/code&gt;和&lt;code&gt;LD_LIBRARY_PATH&lt;/code&gt;里去。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

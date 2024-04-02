@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>武飞 | 人工智能安全研究实验室·上海交通大学</title>
+    <link>https://example.com/author/%E6%AD%A6%E9%A3%9E/</link>
+      <atom:link href="https://example.com/author/%E6%AD%A6%E9%A3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>武飞</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://example.com/author/%E6%AD%A6%E9%A3%9E/avatar_huc7beccdf6c6483a4e01b85365d71f0d1_431395_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>武飞</title>
+      <link>https://example.com/author/%E6%AD%A6%E9%A3%9E/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2073 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 2024年4月2日 --><html lang="zh-Hans" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.6" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.e2fc9af8af1d06f0acf0c4cfb2788037.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="" />
+
+
+
+<link rel="alternate" hreflang="zh-Hans" href="https://sjtuaiseclab.github.io/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+    
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/" />
+<meta property="og:title" content="人工智能安全实验室·上海交通大学" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+
+  
+    <meta property="og:updated_time" content="1970-08-23T14:15:30&#43;08:00" />
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://sjtuaiseclab.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://sjtuaiseclab.github.io/"
+}
+</script>
+
+
+  
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://sjtuaiseclab.github.io/",
+  "name": "人工智能安全研究实验室·上海交通大学",
+  "logo": "https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_192x192_fill_lanczos_center_3.png",
+  
+  
+  
+  
+  "url": "https://sjtuaiseclab.github.io/"
+}
+</script>
+
+  
+
+
+
+
+  
+  
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="人工智能安全实验室·上海交通大学" />
+  
+
+  
+
+
+  
+  <title>人工智能安全实验室·上海交通大学</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="3976528693a0108357f4928017600865" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.3a6bdbdff5d8a89d6e651adb3deec035.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="搜索...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">人工智能安全实验室·上海交通大学</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">人工智能安全实验室·上海交通大学</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/student"><span>实验室成员</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>近期事件</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>科研成果</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>联系我们</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="搜索"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>浅色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>深色</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>自动</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+<span class="js-widget-page d-none"></span>
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-hero" class="home-section wg-hero  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+
+    
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-md-6 text-center text-md-left">
+
+
+    
+      <h1 class="hero-title">实验室概况</h1>
+    
+
+    
+      <div class="hero-lead"><br>
+上海交通大学人工智能安全实验室（AI Security Lab）现有教师6位、在读博士生10余位、在读硕士生20余位。实验室聚焦人工智能技术自身的安全问题以及人工智能技术在安全领域的应用，主要研究内容安全、大模型安全、联邦学习、深度模型水印、深度伪造检测、生物特征身份认证等。实验室累计发表学术论文400余篇，其中多篇论文发表在IEEE TIFS/TPAMI/TFS/TCSVT/TCYB/TNNLS、ACL、ICCV、AAAI、IJCAI、EMNLP等顶级期刊和会议上。
+</div>
+    
+
+    
+    
+
+    
+    
+
+  
+  
+  </div>
+  <div class="col-12 mx-auto col-md-6  hero-media">
+      
+      
+        
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/media/welcome_huddfeaec95be9218203be744629b217b7_1265598_400x0_resize_q100_lanczos.jpg" srcset="/media/welcome_huddfeaec95be9218203be744629b217b7_1265598_1200x0_resize_q100_lanczos.jpg 1200w,/media/welcome_huddfeaec95be9218203be744629b217b7_1265598_800x0_resize_q100_lanczos.jpg 800w,/media/welcome_huddfeaec95be9218203be744629b217b7_1265598_400x0_resize_q100_lanczos.jpg 400w" width="3072" height="3072" alt="">
+      
+    
+  </div>
+</div>
+
+
+
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-people" class="home-section wg-people  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+    <div class="section-heading col-12 mb-3 text-center">
+      <h1 class="mb-0">教师</h1>
+      
+    </div>
+  
+
+  
+
+  
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E5%88%98%E5%8A%9F%E7%94%B3/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E5%88%98%E5%8A%9F%E7%94%B3/avatar_hu990874e6b19f4be0303fc96e9c9c4dbf_88945_270x270_fill_q100_lanczos_center.jpg" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E5%88%98%E5%8A%9F%E7%94%B3/">刘功申</a></h2>
+          
+          <h3>教授</h3>
+          
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/avatar_hu74d6b68c2ebdb13042f0586238a31483_18637_270x270_fill_q100_lanczos_center.jpg" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/">王士林</a></h2>
+          
+          <h3>教授</h3>
+          
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E5%AD%9F%E9%AD%81/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E5%AD%9F%E9%AD%81/avatar_hub144978aebdc00f653a8dfaf01f0e6ee_219484_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E5%AD%9F%E9%AD%81/">孟魁</a></h2>
+          
+          <h3>高级实验师</h3>
+          
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/avatar_hu2a09a1d2336670ea280c826f99921f1b_724731_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/">张倬胜</a></h2>
+          
+          <h3>助理教授</h3>
+          
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E6%AE%B5%E8%8B%8F%E5%B3%B0/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E6%AE%B5%E8%8B%8F%E5%B3%B0/avatar_hu7fba9da1679ce4a56c592454604cb9c1_197081_270x270_fill_q100_lanczos_center.jpg" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E6%AE%B5%E8%8B%8F%E5%B3%B0/">段苏峰</a></h2>
+          
+          <h3>助理研究员</h3>
+          
+          
+        </div>
+      </div>
+    
+      
+      
+      
+      
+        
+      
+      <div class="col-12 col-sm-auto people-person">
+        
+        
+          
+          
+        
+        
+          
+          <a href="/author/%E9%BB%84%E6%9E%97%E5%BA%86/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/author/%E9%BB%84%E6%9E%97%E5%BA%86/avatar_huf0346aab4563dfe7eecd2c9999fea5ec_85903_270x270_fill_q100_lanczos_center.jpg" alt="Avatar"></a>
+        
+
+        <div class="portrait-title">
+          <h2><a href="/author/%E9%BB%84%E6%9E%97%E5%BA%86/">黄林庆</a></h2>
+          
+          <h3>助理研究员</h3>
+          
+          
+        </div>
+      </div>
+    
+  
+</div>
+
+
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-collection" class="home-section wg-collection  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">最新成果</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 ">
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/%E4%BD%95%E6%80%A1/">何怡</a></span>, <span >
+      <a href="/author/%E6%9D%A8%E7%A3%8A/">杨磊</a></span>, <span >
+      <a href="/author/%E7%8E%8B%E6%99%97%E4%BA%A6/">王晗亦</a></span>, <span >
+      <a href="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/">王士林</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    三月 2024
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>ICASSP 2024</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/" >Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</a>
+  </div>
+
+  
+  <a href="/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/"  class="summary-link">
+    <div class="article-style">
+      <p>Lipreading has been rapidly developed recently with the help of large-scale datasets and big models. Despite the significant progress made, the performance of lipreading models still falls short when dealing with unseen speakers. Therefore by analyzing the characteristics of speakers when uttering, we propose a novel parameter-efficient fine-tuning method based on spatio-temporal information learning. In our approach, a low-rank adaptation module that can influence global spatial features and a plug-and-play temporal adaptive weight learning module are designed in the front-end and back-end of the lipreading model, which can adapt to the speaker’s unique features such as the shape of the lips and the style of speech, respectively. An Adapter module is added between them to further enhance the spatio-temporal learning. The final experiments on the LRW-ID and GRID datasets demonstrate that our method achieves state-of-the-art performance even with fewer parameters.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/2024-icassp-heyi-speaker-adaptive-lipreading-via.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/%E9%97%AB%E8%B6%85%E5%8D%9A/">闫超博</a></span>, <span >
+      <a href="/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/">李方圻</a></span>, <span >
+      <a href="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/">王士林</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    三月 2024
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>ICASSP 2024</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/" >Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</a>
+  </div>
+
+  
+  <a href="/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/"  class="summary-link">
+    <div class="article-style">
+      <p>Model watermarking secures ownership verification and copyright protection of deep neural networks. In the black-box scenario, watermarking schemes commonly rely on injecting triggers and requiring the model&rsquo;s training data to maintain its performance. However, such knowledge might be unavailable in commercial settings as model transactions or copyright transfers. To tackle this challenge, we propose a novel data-free black-box watermarking scheme. Our approach modifies data-free adversarial distillation to efficiently obtain a generator that produces samples serving as a substitute for the training data so the watermark can achieve high fidelity without referring to the training data.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/2024-icassp-yanchaobo-data-free-watermark-for.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/">李方圻</a></span>, <span >
+      <a href="/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/">王士林</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    二月 2024
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>AAAI 2024</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/" >Revisiting the Information Capacity of Neural Network Watermarks: Upper Bound Estimation and Beyond</a>
+  </div>
+
+  
+  <a href="/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/"  class="summary-link">
+    <div class="article-style">
+      <p>To trace the copyright of deep neural networks, an owner can embed its identity information into its model as a watermark. The capacity of the watermark quantify the maximal volume of information that can be verified from the watermarked model. Current studies on capacity focus on the ownership verification accuracy under ordinary removal attacks and fail to capture the relationship between robustness and fidelity. This paper studies the capacity of deep neural network watermarks from an information theoretical perspective. We propose a new definition of deep neural network watermark capacity analogous to channel capacity, analyze its properties, and design an algorithm that yields a tight estimation of its upper bound under adversarial overwriting. We also propose a universal non-invasive method to secure the transmission of the identity message beyond capacity by multiple rounds of ownership verification. Our observations provide evidence for neural network owners and defenders that are curious about the tradeoff between the integrity of their ownership and the performance degradation of their products.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/2024-aaai-lifangqi-revisiting-the-information-capacity.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+    
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        查看全部出版物
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-markdown" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    <ul class="cta-group">
+  <li>
+    <a href="./student/"  class="btn btn-primary px-3 py-3">实验室成员 →</a>
+  </li>
+</ul>
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      由<a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a>支持发布——免费<a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">开源</a>网站，为创作者赋能。
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.938a3a7554cd9f6602290411f64d2617.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/zh/js/wowchemy.min.e499ac5210725f2a315d15bb494da722.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">引用</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> 复制
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> 下载
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9137013a66774049159934c29c3f0205.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script>
+(function() {
+    
+    function changeText() {
+        var subheadings = document.getElementsByClassName('section-subheading');
+        for (var i = 0; i < subheadings.length; i++) {
+            if (subheadings[i].textContent === '兴趣爱好') {
+                
+                subheadings[i].textContent = '研究方向';
+            }
+            if (subheadings[i].textContent === '教育经历') {
+                
+                subheadings[i].textContent = '教育经历';
+            }
+        }
+        var h3elements = document.querySelectorAll('.article-widget.content-widget-hr h3');
+        h3elements.forEach(function(h3element) {
+            if (h3element.textContent === "最新") {
+                h3element.textContent = "论文列表";
+            }
+        });
+        var publicationLink = document.querySelector('.see-all a[href="/publication/"]');
+        if (publicationLink) {
+            
+            var textNodes = [...publicationLink.childNodes].filter(node => node.nodeType === Node.TEXT_NODE);
+            if (textNodes.length > 0 && textNodes[0].nodeValue.includes('查看全部出版物')) {
+                textNodes[0].nodeValue = '查看全部 ';
+            }
+        }
+    }
+    
+    function hideShareBoxes() {
+        var shareBoxes = document.querySelectorAll('.share-box');
+        shareBoxes.forEach(function(shareBox) {
+            shareBox.style.display = 'none';
+        });
+    }
+
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        changeText();
+        hideShareBoxes();
+    });
+})();
+</script>
+      
+    
+  
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>闫超博 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
+    <description>闫超博</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/avatar_hu4c743751842d10f6e312fb33a32f03dd_753386_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>闫超博</title>
+      <link>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
+    </image>
+    
+    <item>
+      <title>Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>马兴华 | 人工智能安全研究实验室·上海交通大学</title>
+    <link>https://example.com/author/%E9%A9%AC%E5%85%B4%E5%8D%8E/</link>
+      <atom:link href="https://example.com/author/%E9%A9%AC%E5%85%B4%E5%8D%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>马兴华</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://example.com/author/%E9%A9%AC%E5%85%B4%E5%8D%8E/avatar_hu8ca6b31ac24e81b1372f053979a8dc67_82018_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>马兴华</title>
+      <link>https://example.com/author/%E9%A9%AC%E5%85%B4%E5%8D%8E/</link>
+    </image>
+    
+  </channel>
+</rss>
