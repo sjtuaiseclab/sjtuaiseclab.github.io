@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="Backdoor attacks pose a serious security threat for natural language processing (NLP). Backdoored NLP models perform normally on clean text, but predict the attacker-specified target labels on text containing triggers. Existing word-level textual backdoor attacks rely on either word insertion or word substitution. Word-insertion backdoor attacks can be easily detected by simple backdoor defenses. Meanwhile, wordsubstitution backdoor attacks tend to substantially degrade the fluency and semantic consistency of the poisoned text. In this paper, we propose a more natural word substitution method to implement covert textual backdoor attacks. Specifically, we combine three different ways to construct a diverse synonym thesaurus for clean text. We then train a learnable word selector for producing poisoned text using a composite loss function of poison and fidelity terms. This enables automated selection of minimal critical word substitutions necessary to induce the backdoor. Experiments demonstrate our method achieves high attack performance with less impact on fluency and semantics. We hope this work can raise awareness regarding the threat of subtle, fluent word substitution attacks." />
+<meta name="description" content="随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。" />
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/" />
-<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/" />
+<link rel="alternate" hreflang="zh-Hans" href="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
 
 
 
@@ -320,18 +320,18 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/" />
-<meta property="og:title" content="NWS: Natural Textual Backdoor Attacks via Word Substitution | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="Backdoor attacks pose a serious security threat for natural language processing (NLP). Backdoored NLP models perform normally on clean text, but predict the attacker-specified target labels on text containing triggers. Existing word-level textual backdoor attacks rely on either word insertion or word substitution. Word-insertion backdoor attacks can be easily detected by simple backdoor defenses. Meanwhile, wordsubstitution backdoor attacks tend to substantially degrade the fluency and semantic consistency of the poisoned text. In this paper, we propose a more natural word substitution method to implement covert textual backdoor attacks. Specifically, we combine three different ways to construct a diverse synonym thesaurus for clean text. We then train a learnable word selector for producing poisoned text using a composite loss function of poison and fidelity terms. This enables automated selection of minimal critical word substitutions necessary to induce the backdoor. Experiments demonstrate our method achieves high attack performance with less impact on fluency and semantics. We hope this work can raise awareness regarding the threat of subtle, fluent word substitution attacks." /><meta property="og:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
+<meta property="og:title" content="自然语言处理中的探针可解释方法综述 | 人工智能安全实验室·上海交通大学" />
+<meta property="og:description" content="随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。" /><meta property="og:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
 
   
     <meta
       property="article:published_time"
-      content="2023-12-14T00:00:00&#43;00:00"
+      content="2024-04-01T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-12-14T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-04-01T00:00:00&#43;00:00">
   
 
 
@@ -355,16 +355,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/"
+    "@id": "https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/"
   },
-  "headline": "NWS: Natural Textual Backdoor Attacks via Word Substitution",
+  "headline": "自然语言处理中的探针可解释方法综述",
   
-  "datePublished": "2023-12-14T00:00:00Z",
-  "dateModified": "2023-12-14T00:00:00Z",
+  "datePublished": "2024-04-01T00:00:00Z",
+  "dateModified": "2024-04-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "杜巍"
+    "name": "鞠天杰"
   },
   
   "publisher": {
@@ -375,7 +375,7 @@
       "url": "https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Backdoor attacks pose a serious security threat for natural language processing (NLP). Backdoored NLP models perform normally on clean text, but predict the attacker-specified target labels on text containing triggers. Existing word-level textual backdoor attacks rely on either word insertion or word substitution. Word-insertion backdoor attacks can be easily detected by simple backdoor defenses. Meanwhile, wordsubstitution backdoor attacks tend to substantially degrade the fluency and semantic consistency of the poisoned text. In this paper, we propose a more natural word substitution method to implement covert textual backdoor attacks. Specifically, we combine three different ways to construct a diverse synonym thesaurus for clean text. We then train a learnable word selector for producing poisoned text using a composite loss function of poison and fidelity terms. This enables automated selection of minimal critical word substitutions necessary to induce the backdoor. Experiments demonstrate our method achieves high attack performance with less impact on fluency and semantics. We hope this work can raise awareness regarding the threat of subtle, fluent word substitution attacks."
+  "description": "随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。"
 }
 </script>
 
@@ -397,7 +397,7 @@
 
 
   
-  <title>NWS: Natural Textual Backdoor Attacks via Word Substitution | 人工智能安全实验室·上海交通大学</title>
+  <title>自然语言处理中的探针可解释方法综述 | 人工智能安全实验室·上海交通大学</title>
 
   
   
@@ -417,7 +417,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="93089901a0e9fd00188fb39d55872a66" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="aa81f597f012780d895e7aef8e414402" >
 
   
   
@@ -729,7 +729,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>NWS: Natural Textual Backdoor Attacks via Word Substitution</h1>
+  <h1>自然语言处理中的探针可解释方法综述</h1>
 
   
 
@@ -747,10 +747,9 @@
     
 
   <span >
-      <a href="/author/%E6%9D%9C%E5%B7%8D/">杜巍</a></span>, <span >
-      <a href="/author/%E8%A2%81%E7%AB%A5%E9%91%AB/">袁童鑫</a></span>, <span >
-      <a href="/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/">赵皓东</a></span>, <span >
-      <a href="/author/%E5%88%98%E5%8A%9F%E7%94%B3/">刘功申</a></span>
+      <a href="/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/">鞠天杰</a></span>, <span >
+      <a href="/author/%E5%88%98%E5%8A%9F%E7%94%B3/">刘功申</a></span>, <span >
+      <a href="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/">张倬胜</a></span>
   </div>
   
   
@@ -761,7 +760,7 @@
     
       
     
-    十二月 2023
+    四月 2024
   </span>
   
 
@@ -799,8 +798,15 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/2024-icassp-weidu-nws-natural-textual-backdoor.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/publication/journal/2024-cjc-a-review-of-probe/2024-cjc-a-review-of-probe.pdf" target="_blank" rel="noopener">
   PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/journal/2024-cjc-a-review-of-probe/cite.bib">
+  引用
 </a>
 
 
@@ -815,7 +821,9 @@
 
 
 
-
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.11897/SP.J.1016.2024.00733" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 
@@ -831,7 +839,7 @@
 
     
     <h3>摘要</h3>
-    <p class="pub-abstract">Backdoor attacks pose a serious security threat for natural language processing (NLP). Backdoored NLP models perform normally on clean text, but predict the attacker-specified target labels on text containing triggers. Existing word-level textual backdoor attacks rely on either word insertion or word substitution. Word-insertion backdoor attacks can be easily detected by simple backdoor defenses. Meanwhile, wordsubstitution backdoor attacks tend to substantially degrade the fluency and semantic consistency of the poisoned text. In this paper, we propose a more natural word substitution method to implement covert textual backdoor attacks. Specifically, we combine three different ways to construct a diverse synonym thesaurus for clean text. We then train a learnable word selector for producing poisoned text using a composite loss function of poison and fidelity terms. This enables automated selection of minimal critical word substitutions necessary to induce the backdoor. Experiments demonstrate our method achieves high attack performance with less impact on fluency and semantics. We hope this work can raise awareness regarding the threat of subtle, fluent word substitution attacks.</p>
+    <p class="pub-abstract">随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。</p>
     
 
     
@@ -842,8 +850,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">类型</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#conference">
-              Conference
+            <a href="/publication/#journal">
+              Journal
             </a>
           </div>
         </div>
@@ -859,7 +867,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">出版物</div>
-          <div class="col-12 col-md-9">In <em>IEEE International Conference on Acoustics, Speech and Signal Processing</em></div>
+          <div class="col-12 col-md-9">In <em>计算机学报</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -894,7 +902,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F&amp;text=NWS%3A&#43;Natural&#43;Textual&#43;Backdoor&#43;Attacks&#43;via&#43;Word&#43;Substitution" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F&amp;text=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -911,7 +919,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F&amp;t=NWS%3A&#43;Natural&#43;Textual&#43;Backdoor&#43;Attacks&#43;via&#43;Word&#43;Substitution" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F&amp;t=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -930,7 +938,7 @@
         
       
       <li>
-        <a href="mailto:?subject=NWS%3A%20Natural%20Textual%20Backdoor%20Attacks%20via%20Word%20Substitution&amp;body=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0&amp;body=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -947,7 +955,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F&amp;title=NWS%3A&#43;Natural&#43;Textual&#43;Backdoor&#43;Attacks&#43;via&#43;Word&#43;Substitution" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F&amp;title=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -964,7 +972,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=NWS%3A&#43;Natural&#43;Textual&#43;Backdoor&#43;Attacks&#43;via&#43;Word&#43;Substitution%20https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0%20https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -981,7 +989,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fconference%2F2024-icassp-weidu-nws-natural-textual-backdoor%2F&amp;title=NWS%3A&#43;Natural&#43;Textual&#43;Backdoor&#43;Attacks&#43;via&#43;Word&#43;Substitution" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fpublication%2Fjournal%2F2024-cjc-a-review-of-probe%2F&amp;title=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E6%8E%A2%E9%92%88%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%96%B9%E6%B3%95%E7%BB%BC%E8%BF%B0" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1013,11 +1021,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/%E6%9D%9C%E5%B7%8D/"><img class="avatar mr-3 avatar-circle" src="/author/%E6%9D%9C%E5%B7%8D/avatar_huad05ebe96efc19c525b9da4b7eab77c1_7805093_270x270_fill_q100_lanczos_center.jpg" alt="杜巍"></a>
+      <a href="/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/"><img class="avatar mr-3 avatar-circle" src="/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/avatar_hu1fdeed9366ae91c63abe6b6925712a5f_1008620_270x270_fill_q100_lanczos_center.jpg" alt="鞠天杰"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/%E6%9D%9C%E5%B7%8D/">杜巍</a></h5>
+      <h5 class="card-title"><a href="/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/">鞠天杰</a></h5>
       <h6 class="card-subtitle">博士研究生</h6>
       
       <ul class="network-icon" aria-hidden="true">
@@ -1032,93 +1040,7 @@
     
     
     <li>
-      <a href="mailto:dddddw@sjtu.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
-
-
-  
-    
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="/author/%E8%A2%81%E7%AB%A5%E9%91%AB/"><img class="avatar mr-3 avatar-circle" src="/author/%E8%A2%81%E7%AB%A5%E9%91%AB/avatar_hu07b06fdb1a24e4dbf299a669435e68d4_106762_270x270_fill_q100_lanczos_center.jpg" alt="袁童鑫"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/author/%E8%A2%81%E7%AB%A5%E9%91%AB/">袁童鑫</a></h5>
-      <h6 class="card-subtitle">硕士研究生</h6>
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:teenyuan@sjtu.edu.cn" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
-
-
-  
-    
-
-
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/"><img class="avatar mr-3 avatar-circle" src="/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/avatar_hub8617efcb407d951749e7c667e214aaa_740485_270x270_fill_q100_lanczos_center.jpg" alt="赵皓东"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/">赵皓东</a></h5>
-      <h6 class="card-subtitle">博士研究生</h6>
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:zhaohaodong@sjtu.edu.cn" >
+      <a href="mailto:jometeorie@sjtu.edu.cn" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1162,6 +1084,49 @@
     
     <li>
       <a href="mailto:lgshen@sjtu.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/"><img class="avatar mr-3 avatar-circle" src="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/avatar_hu161feb995ec2d3f2620a9a4e6d36c661_449207_270x270_fill_lanczos_center_3.png" alt="张倬胜"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/%E5%BC%A0%E5%80%AC%E8%83%9C/">张倬胜</a></h5>
+      <h6 class="card-subtitle">助理教授</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:zhangzs@sjtu.edu.cn" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
