@@ -5,12 +5,20 @@
     <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
       <atom:link href="https://sjtuaiseclab.github.io/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
       <title>journal</title>
       <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
     </image>
+    
+    <item>
+      <title>自然语言处理中的探针可解释方法综述</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2024-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E6%8A%A5-a-review-of-probe/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E6%8A%A5-a-review-of-probe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
@@ -33,6 +41,14 @@
       <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DESC-IDS: Towards an Efficient Real-time Automotive Intrusion Detection System Based on Deep Evolving Stream Clustering</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
       <description></description>
     </item>
     

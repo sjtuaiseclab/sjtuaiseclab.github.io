@@ -3,14 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sjtuaiseclab.github.io/authors/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication-type/conference/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <loc>https://sjtuaiseclab.github.io/publication-type/journal/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/publication_types/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%80%AC%E8%83%9C/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/journal/2024-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E6%8A%A5-a-review-of-probe/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication-type/conference/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -19,10 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -70,12 +90,28 @@
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication-type/journal/</loc>
-    <lastmod>2023-07-24T00:00:00+00:00</lastmod>
+    <loc>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%8F%AE%E7%8E%84/</loc>
+    <lastmod>2023-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</loc>
@@ -114,6 +150,26 @@
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,19 +196,19 @@
     <loc>https://sjtuaiseclab.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%8D%93%E8%90%8C/</loc>
+    <loc>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%80%AC%E8%83%9C/</loc>
+    <loc>https://sjtuaiseclab.github.io/author/%E8%A2%81%E7%AB%A5%E9%91%AB/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%8D%93%E8%90%8C/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</loc>

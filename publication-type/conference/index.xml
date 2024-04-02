@@ -37,10 +37,26 @@
     </item>
     
     <item>
+      <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measure and Countermeasure of the Capsulation Attack against Backdoor-based Deep Neural Network Watermarks</title>
       <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
       <description></description>
     </item>
     
@@ -65,6 +81,22 @@
       <link>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIMS: A Novel Approach for Incrementally Few-Shot Text Instance Selection via Model Similarity</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
       <description></description>
     </item>
     

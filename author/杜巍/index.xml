@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杜巍 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/index.xml" rel="self" type="application/rss+xml" />
+    <description>杜巍</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <title>杜巍</title>
+      <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
+    </image>
+    
+    <item>
+      <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

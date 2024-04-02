@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程彭洲 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/index.xml" rel="self" type="application/rss+xml" />
+    <description>程彭洲</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/avatar_hu8482da1c3f19bd014f8966189f00f5c1_2723409_270x270_fill_lanczos_center_3.png</url>
+      <title>程彭洲</title>
+      <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
+    </image>
+    
+    <item>
+      <title>DESC-IDS: Towards an Efficient Real-time Automotive Intrusion Detection System Based on Deep Evolving Stream Clustering</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赵皓东 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>赵皓东</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/avatar_hub8617efcb407d951749e7c667e214aaa_740485_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>赵皓东</title>
+      <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
+    </image>
+    
+    <item>
+      <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
