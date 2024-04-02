@@ -5,12 +5,28 @@
     <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/index.xml" rel="self" type="application/rss+xml" />
     <description>杜巍</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/avatar_huad05ebe96efc19c525b9da4b7eab77c1_7805093_270x270_fill_q100_lanczos_center.jpg</url>
       <title>杜巍</title>
       <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
     </image>
+    
+    <item>
+      <title>Backdoor NLP Models via AI-Generated Text</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
@@ -25,6 +41,14 @@
       <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
       <description></description>
     </item>
     

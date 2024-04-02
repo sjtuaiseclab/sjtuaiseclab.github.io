@@ -5,12 +5,20 @@
     <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>赵皓东</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 09 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/avatar_hub8617efcb407d951749e7c667e214aaa_740485_270x270_fill_q100_lanczos_center.jpg</url>
       <title>赵皓东</title>
       <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
     </image>
+    
+    <item>
+      <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>

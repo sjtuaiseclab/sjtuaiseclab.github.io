@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>方岭永 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>方岭永</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/avatar_hu773a20c54d26090f113d65fe1dc1d471_919250_270x270_fill_lanczos_center_3.png</url>
+      <title>方岭永</title>
+      <link>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Grained Multimodal Interaction Network for Sentiment Analysis</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

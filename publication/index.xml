@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Backdoor NLP Models via AI-Generated Text</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Grained Multimodal Interaction Network for Sentiment Analysis</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
       <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
@@ -41,6 +57,14 @@
       <link>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
       <description></description>
     </item>
     
@@ -133,10 +157,26 @@
     </item>
     
     <item>
+      <title>Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TIMS: A Novel Approach for Incrementally Few-Shot Text Instance Selection via Model Similarity</title>
       <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
       <description></description>
     </item>
     
