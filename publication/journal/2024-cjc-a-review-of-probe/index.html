@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2024年4月2日 --><html lang="zh-Hans" >
+<!-- Last Published: 2024年4月4日 --><html lang="zh" >
 
 
 <head>
@@ -280,7 +280,7 @@
 
 
 
-<link rel="alternate" hreflang="zh-Hans" href="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
 <link rel="canonical" href="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
 
 
@@ -304,15 +304,14 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/featured.png" />
 
 
 
@@ -322,7 +321,7 @@
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
 <meta property="og:url" content="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/" />
 <meta property="og:title" content="自然语言处理中的探针可解释方法综述 | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。" /><meta property="og:image" content="https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="zh-Hans" />
+<meta property="og:description" content="随着大规模预训练模型的广泛应用，自然语言处理的各领域（如文本分类和机器翻译）均取得了长足的发展。然而，受限于预训练模型的“黑盒”特性，其内部的决策模式以及编码的知识信息被认为是不透明的。以OpenAI发布的ChatGPT和GPT-4为代表的先进预训练模型为例，它们在各领域取得重大性能突破的同时，由于无法获知其内部是否真正编码了人们期望的世界知识或语言属性，以及是否潜藏一些不期望的歧视或偏见现象，因此仍然无法应用于重视安全性和公平性的领域。近年来，一种新颖的可解释性方案“探针任务”有望提升人们对预训练模型各层编码的语言属性的理解。探针任务通过在模型的某一区域训练辅助语言任务，来检验该区域是否编码了感兴趣的语言属性。例如，现有研究通过冻结模型参数并在不同层训练探针任务，已经证明预训练模型在低层编码了更多词性属性而在高层编码了更多语义属性，但由于预训练数据的毒性，很有可能在参数中编码了大量有害内容。本篇综述中，我们首先介绍了探针任务的基本范式，包括任务的定义和基本流程；然后对自然语言处理中现有的探针任务方案进行了系统性的归纳与总结，包括最常用的诊断分类器以及由此衍生出的其他探针方法，为读者提供设计合理探针任务的思路；接着从对比和控制的角度介绍如何解释探针任务的实验结果，以说明探测位置编码感兴趣属性的程度；最后对探针任务的主要应用和未来的关键研究方向进行展望，讨论了当前探针任务亟待解决的问题与挑战。" /><meta property="og:image" content="https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/featured.png" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -358,6 +357,10 @@
     "@id": "https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/"
   },
   "headline": "自然语言处理中的探针可解释方法综述",
+  
+  "image": [
+    "https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/featured.png"
+  ],
   
   "datePublished": "2024-04-01T00:00:00Z",
   "dateModified": "2024-04-01T00:00:00Z",
@@ -723,18 +726,26 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
+
 <div class="article-container pt-3">
   <h1>自然语言处理中的探针可解释方法综述</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -778,7 +789,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -806,7 +817,7 @@
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
         data-filename="/publication/journal/2024-cjc-a-review-of-probe/cite.bib">
-  引用
+  Cite
 </a>
 
 
@@ -830,7 +841,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 571px;">
+  <div style="position: relative">
+    <img src="/publication/journal/2024-cjc-a-review-of-probe/featured_hu80c69d60e08f4112e36a9eb9b040c597_75211_bc19693fc8d721aa82cdfaa1e70ca694.webp" width="720" height="571" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -1332,7 +1350,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">引用</h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1368,58 +1386,6 @@
 
 
 
-
-  
-    
-      
-      <script>
-(function() {
-    
-    function changeText() {
-        var subheadings = document.getElementsByClassName('section-subheading');
-        for (var i = 0; i < subheadings.length; i++) {
-            if (subheadings[i].textContent === '兴趣爱好') {
-                
-                subheadings[i].textContent = '研究方向';
-            }
-            if (subheadings[i].textContent === '教育经历') {
-                
-                subheadings[i].textContent = '教育经历';
-            }
-        }
-        var h3elements = document.querySelectorAll('.article-widget.content-widget-hr h3');
-        h3elements.forEach(function(h3element) {
-            if (h3element.textContent === "最新") {
-                h3element.textContent = "论文列表";
-            }
-        });
-        var publicationLink = document.querySelector('.see-all a[href="/publication/"]');
-        if (publicationLink) {
-            
-            var textNodes = [...publicationLink.childNodes].filter(node => node.nodeType === Node.TEXT_NODE);
-            if (textNodes.length > 0 && textNodes[0].nodeValue.includes('查看全部出版物')) {
-                textNodes[0].nodeValue = '查看全部 ';
-            }
-        }
-    }
-    
-    function hideShareBoxes() {
-        var shareBoxes = document.querySelectorAll('.share-box');
-        shareBoxes.forEach(function(shareBox) {
-            shareBox.style.display = 'none';
-        });
-    }
-
-    
-    document.addEventListener('DOMContentLoaded', function() {
-        changeText();
-        hideShareBoxes();
-    });
-})();
-</script>
-      
-    
-  
 
 
 

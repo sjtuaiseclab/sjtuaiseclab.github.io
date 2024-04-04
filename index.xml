@@ -5,7 +5,7 @@
     <link>https://sjtuaiseclab.github.io/</link>
       <atom:link href="https://sjtuaiseclab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>人工智能安全实验室·上海交通大学</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 23 Aug 1970 14:15:30 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sun, 23 Aug 1970 14:15:30 +0800</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
       <title>人工智能安全实验室·上海交通大学</title>
@@ -89,6 +89,14 @@
       <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDPSAT: Syntactic Dependency Parsing Structure-Guided Semi-Autoregressive Machine Translation</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</guid>
       <description></description>
     </item>
     
