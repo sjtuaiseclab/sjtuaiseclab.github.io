@@ -5,12 +5,24 @@
     <link>https://sjtuaiseclab.github.io/author/%E8%A2%81%E7%AB%A5%E9%91%AB/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E8%A2%81%E7%AB%A5%E9%91%AB/index.xml" rel="self" type="application/rss+xml" />
     <description>袁童鑫</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/author/%E8%A2%81%E7%AB%A5%E9%91%AB/avatar_hu07b06fdb1a24e4dbf299a669435e68d4_106762_270x270_fill_q100_lanczos_center.jpg</url>
       <title>袁童鑫</title>
       <link>https://sjtuaiseclab.github.io/author/%E8%A2%81%E7%AB%A5%E9%91%AB/</link>
     </image>
+    
+    <item>
+      <title>《动手学大模型》系列编程实践教程</title>
+      <link>https://sjtuaiseclab.github.io/event/dive-into-llm/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/event/dive-into-llm/</guid>
+      <description>&lt;p&gt;《动手学大模型》系列编程实践教程，由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：&lt;a href=&#34;https://bcmi.sjtu.edu.cn/home/zhangzs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;张倬胜&lt;/a&gt;），旨在提供大模型相关的入门编程参考。&lt;/p&gt;
+&lt;p&gt;通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。
+涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。&lt;/p&gt;
+&lt;p&gt;地址：&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Lordog/dive-into-llms&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
