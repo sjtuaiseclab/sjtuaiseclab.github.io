@@ -5,12 +5,20 @@
     <link>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>何怡</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/avatar_hu3baa31938a23a4ee5dfe86bfb864ed30_59216_270x270_fill_q100_lanczos_center.jpg</url>
       <title>何怡</title>
       <link>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</link>
     </image>
+    
+    <item>
+      <title>Lip Feature Disentanglement for Visual Speaker Authentication in Natural Scenes</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
