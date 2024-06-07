@@ -5,12 +5,20 @@
     <link>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/index.xml" rel="self" type="application/rss+xml" />
     <description>陆千禧</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/avatar_hu3480be3c86208084d143686b1032ab6d_1280949_270x270_fill_q100_lanczos_center.jpg</url>
       <title>陆千禧</title>
       <link>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
     </image>
+    
+    <item>
+      <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

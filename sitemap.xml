@@ -3,7 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sjtuaiseclab.github.io/authors/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication-type/conference/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication_types/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/publication/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/publication-type/journal/</loc>
@@ -14,31 +42,11 @@
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication_types/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/event/dive-into-llm/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/publication-type/conference/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,9 +262,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E9%BB%84%E6%9E%97%E5%BA%86/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/</loc>
