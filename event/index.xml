@@ -5,7 +5,7 @@
     <link>https://sjtuaiseclab.github.io/event/</link>
       <atom:link href="https://sjtuaiseclab.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>近期事件</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
       <title>近期事件</title>
@@ -15,7 +15,7 @@
     <item>
       <title>《动手学大模型》系列编程实践教程</title>
       <link>https://sjtuaiseclab.github.io/event/dive-into-llm/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/event/dive-into-llm/</guid>
       <description>&lt;p&gt;《动手学大模型》系列编程实践教程，由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：&lt;a href=&#34;https://bcmi.sjtu.edu.cn/home/zhangzs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;张倬胜&lt;/a&gt;），旨在提供大模型相关的入门编程参考。&lt;/p&gt;
 &lt;p&gt;通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。

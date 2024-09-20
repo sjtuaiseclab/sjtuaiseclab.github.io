@@ -5,7 +5,7 @@
     <link>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%80%AC%E8%83%9C/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%80%AC%E8%83%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>张倬胜</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E5%80%AC%E8%83%9C/avatar_hu161feb995ec2d3f2620a9a4e6d36c661_449207_270x270_fill_lanczos_center_3.png</url>
       <title>张倬胜</title>
@@ -13,23 +13,23 @@
     </image>
     
     <item>
+      <title>自然语言处理中的探针可解释方法综述</title>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>《动手学大模型》系列编程实践教程</title>
       <link>https://sjtuaiseclab.github.io/event/dive-into-llm/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/event/dive-into-llm/</guid>
       <description>&lt;p&gt;《动手学大模型》系列编程实践教程，由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：&lt;a href=&#34;https://bcmi.sjtu.edu.cn/home/zhangzs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;张倬胜&lt;/a&gt;），旨在提供大模型相关的入门编程参考。&lt;/p&gt;
 &lt;p&gt;通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。
 涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。&lt;/p&gt;
 &lt;p&gt;地址：&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Lordog/dive-into-llms&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>自然语言处理中的探针可解释方法综述</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</guid>
-      <description></description>
     </item>
     
   </channel>
