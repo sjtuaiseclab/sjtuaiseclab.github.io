@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>武飞 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>武飞</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/avatar_huc7beccdf6c6483a4e01b85365d71f0d1_431395_270x270_fill_q100_lanczos_center.jpg</url>
+      <title>武飞</title>
+      <link>https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/</link>
+    </image>
+    
+    <item>
+      <title>武飞</title>
+      <link>https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/author/%E6%AD%A6%E9%A3%9E/</guid>
+      <description>&lt;p&gt;武飞，上海交通大学网络空间安全学院本科生，在王士林教授的指导下，当前主要研究方向为 AIGC 检测与溯源。&lt;/p&gt;
+&lt;p&gt;曾获得本科生国家奖学金，ABB杜曼奖学金，全国密码技术竞赛一等奖，全国大学生信息安全竞赛二等奖，美国大学生数学建模竞赛M奖，校优秀学生干部等荣誉。曾担任校学生联合会权益部组长，电院党建研究会部长、学生代表大会常任代表、“励学团”学业辅导员等工作。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
