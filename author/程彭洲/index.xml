@@ -5,12 +5,30 @@
     <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
       <atom:link href="https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/index.xml" rel="self" type="application/rss+xml" />
     <description>程彭洲</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/avatar_hu8482da1c3f19bd014f8966189f00f5c1_2723409_270x270_fill_lanczos_center_3.png</url>
+      <url>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/avatar_hu8747751021650184934.png</url>
       <title>程彭洲</title>
       <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
     </image>
+    
+    <item>
+      <title>Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>程彭洲</title>
+      <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</guid>
+      <description>&lt;p&gt;程彭洲，上海交通大学网络安全空间学院博士在读，导师为刘功申，主要研究方向为人工智能安全，自然语言处理，网络安全，入侵检测。&lt;/p&gt;
+&lt;p&gt;曾获得硕士研究生国家奖学金、上海交通大学树堂奖学金等荣誉，担任IJTS, TITS, TVT等期刊会议审稿人。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DESC-IDS: Towards an Efficient Real-time Automotive Intrusion Detection System Based on Deep Evolving Stream Clustering</title>
@@ -18,16 +36,6 @@
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>程彭洲</title>
-      <link>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</guid>
-      <description>&lt;p&gt;程彭洲，上海交通大学网络安全空间学院博士在读，导师为刘功申，主要研究方向为人工智能安全，自然语言处理，网络安全，入侵检测。&lt;/p&gt;
-&lt;p&gt;曾获得硕士研究生国家奖学金、上海交通大学树堂奖学金等荣誉，担任IJTS, TITS, TVT等期刊会议审稿人。&lt;/p&gt;
-</description>
     </item>
     
   </channel>

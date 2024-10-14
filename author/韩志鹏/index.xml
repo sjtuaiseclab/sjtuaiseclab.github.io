@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>韩志鹏 | 人工智能安全实验室·上海交通大学</title>
+    <link>https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>韩志鹏</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <image>
+      <url>https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/avatar_hu10800956288814762129.png</url>
+      <title>韩志鹏</title>
+      <link>https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/</link>
+    </image>
+    
+    <item>
+      <title>韩志鹏</title>
+      <link>https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/author/%E9%9F%A9%E5%BF%97%E9%B9%8F/</guid>
+      <description>&lt;p&gt;韩志鹏，上海交通大学网络安全空间学院硕士在读，导师为刘功申，主要研究方向为人工智能。&lt;/p&gt;
+&lt;p&gt;曾获上海交通大学“一流网安”奖学金等。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

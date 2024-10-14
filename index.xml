@@ -7,10 +7,18 @@
     <description>人工智能安全实验室·上海交通大学</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sun, 23 Aug 1970 14:15:30 +0800</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sjtuaiseclab.github.io/media/icon_hu354889267872797375.png</url>
       <title>人工智能安全实验室·上海交通大学</title>
       <link>https://sjtuaiseclab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>

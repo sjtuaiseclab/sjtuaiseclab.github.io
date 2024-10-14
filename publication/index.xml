@@ -5,12 +5,20 @@
     <link>https://sjtuaiseclab.github.io/publication/</link>
       <atom:link href="https://sjtuaiseclab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>科研成果</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/media/icon_huf09509881a04b423e530b9dbb44791d3_100613_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sjtuaiseclab.github.io/media/icon_hu354889267872797375.png</url>
       <title>科研成果</title>
       <link>https://sjtuaiseclab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space</title>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>
