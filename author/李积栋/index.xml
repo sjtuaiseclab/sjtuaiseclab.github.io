@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李积栋 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>李积栋</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/avatar_hu1521385841035995666.jpg</url>
+      <url>http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/avatar_hu1521385841035995666.jpg</url>
       <title>李积栋</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
+      <link>http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
     </image>
     
     <item>
       <title>李积栋</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
+      <link>http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</guid>
+      <guid>http://localhost:1313/author/%E6%9D%8E%E7%A7%AF%E6%A0%8B/</guid>
       <description>&lt;p&gt;李积栋，上海交通大学网络安全空间学院硕士在读，在刘功申教授和段苏峰老师的指导下，主要研究方向为多模态情感分析，多模态大模型。&lt;/p&gt;
 &lt;p&gt;曾获上海交通大学优秀学生干部，优秀团干部荣誉；获得上海交通大学校级优秀奖学金；获得大学生计算机设计大赛全国三等奖等。&lt;/p&gt;
 </description>

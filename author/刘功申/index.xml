@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘功申 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%88%98%E5%8A%9F%E7%94%B3/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E5%8A%9F%E7%94%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>刘功申</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/avatar_hu18208085765879983444.jpg</url>
+      <url>http://localhost:1313/author/%E5%88%98%E5%8A%9F%E7%94%B3/avatar_hu18208085765879983444.jpg</url>
       <title>刘功申</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%8A%9F%E7%94%B3/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E5%8A%9F%E7%94%B3/</link>
     </image>
     
     <item>
       <title>Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
+      <link>http://localhost:1313/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>自然语言处理中的探针可解释方法综述</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</link>
+      <link>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</guid>
+      <guid>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backdoor NLP Models via AI-Generated Text</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Grained Multimodal Interaction Network for Sentiment Analysis</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SDPSAT: Syntactic Dependency Parsing Structure-Guided Semi-Autoregressive Machine Translation</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</link>
+      <link>http://localhost:1313/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-iconip-chenxinran-sdpsat-syntactic-dependency-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
+      <link>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DESC-IDS: Towards an Efficient Real-time Automotive Intrusion Detection System Based on Deep Evolving Stream Clustering</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
+      <link>http://localhost:1313/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
+      <guid>http://localhost:1313/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <link>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TIMS: A Novel Approach for Incrementally Few-Shot Text Instance Selection via Model Similarity</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
       <description></description>
     </item>
     

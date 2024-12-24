@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>何怡 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E4%BD%95%E6%80%A1/</link>
+      <atom:link href="http://localhost:1313/author/%E4%BD%95%E6%80%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>何怡</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/avatar_hu9550092834517230155.jpg</url>
+      <url>http://localhost:1313/author/%E4%BD%95%E6%80%A1/avatar_hu9550092834517230155.jpg</url>
       <title>何怡</title>
-      <link>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</link>
+      <link>http://localhost:1313/author/%E4%BD%95%E6%80%A1/</link>
     </image>
     
     <item>
       <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
+      <link>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>何怡</title>
-      <link>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</link>
+      <link>http://localhost:1313/author/%E4%BD%95%E6%80%A1/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E4%BD%95%E6%80%A1/</guid>
+      <guid>http://localhost:1313/author/%E4%BD%95%E6%80%A1/</guid>
       <description>&lt;p&gt;何怡，上海交通大学网络空间安全学院博士研究生，在王士林教授的指导下，当前主要研究方向为基于唇语特征的内容识别和身份认证。&lt;/p&gt;
 &lt;p&gt;曾担任网络信息安全概论和人工智能导论课程助教。&lt;/p&gt;
 </description>
@@ -32,17 +32,17 @@
     
     <item>
       <title>Lip Feature Disentanglement for Visual Speaker Authentication in Natural Scenes</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
+      <link>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
+      <guid>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
       <description></description>
     </item>
     

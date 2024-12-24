@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>王士林 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</link>
+      <atom:link href="http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/index.xml" rel="self" type="application/rss+xml" />
     <description>王士林</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/avatar_hu15887076169515973543.jpg</url>
+      <url>http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/avatar_hu15887076169515973543.jpg</url>
       <title>王士林</title>
-      <link>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</link>
+      <link>http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</link>
     </image>
     
     <item>
       <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
+      <link>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lip Feature Disentanglement for Visual Speaker Authentication in Natural Scenes</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
+      <link>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
+      <guid>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting the Information Capacity of Neural Network Watermarks: Upper Bound Estimation and Beyond</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
+      <link>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
+      <link>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
+      <guid>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measure and Countermeasure of the Capsulation Attack against Backdoor-based Deep Neural Network Watermarks</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-lifangqi-measure-and-countermeasure-of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content-Insensitive Dynamic Lip Feature Extraction for Visual Speaker Authentication against Deepfake Attacks</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-guozihao-content-insensitive-dynamic-lip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Auto-Encoder Based Method for Camera Fingerprint Compression</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear Functionality Equivalence Attack against Deep Neural Network Watermarks and a Defense Method by Neuron Mapping</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</link>
+      <link>http://localhost:1313/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</guid>
+      <guid>http://localhost:1313/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Complementary Dynamic Incoherence for DeepFake Video Detection</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
+      <link>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <guid>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Domain Local Characteristic Enhanced Deepfake Video Detection</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
+      <link>http://localhost:1313/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Intrusion Detection for IoT Systems with Full Bayesian Possibilistic Clustering and Ensembled Fuzzy Classifiers</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</link>
+      <link>http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</guid>
+      <guid>http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</guid>
       <description></description>
     </item>
     

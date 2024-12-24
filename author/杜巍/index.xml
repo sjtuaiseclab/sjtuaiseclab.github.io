@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杜巍 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/index.xml" rel="self" type="application/rss+xml" />
     <description>杜巍</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/avatar_hu10434143666861391354.jpg</url>
+      <url>http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/avatar_hu10434143666861391354.jpg</url>
       <title>杜巍</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
+      <link>http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/</link>
     </image>
     
     <item>
       <title>How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>杜巍</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</link>
+      <link>http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E6%9D%9C%E5%B7%8D/</guid>
+      <guid>http://localhost:1313/author/%E6%9D%9C%E5%B7%8D/</guid>
       <description>&lt;p&gt;杜巍，上海交通大学网络安全空间学院博士在读，导师为刘功申，主要研究方向为人工智能安全。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Backdoor NLP Models via AI-Generated Text</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>《动手学大模型》系列编程实践教程</title>
-      <link>https://sjtuaiseclab.github.io/event/dive-into-llm/</link>
+      <link>http://localhost:1313/event/dive-into-llm/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/event/dive-into-llm/</guid>
+      <guid>http://localhost:1313/event/dive-into-llm/</guid>
       <description>&lt;p&gt;《动手学大模型》系列编程实践教程，由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：&lt;a href=&#34;https://bcmi.sjtu.edu.cn/home/zhangzs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;张倬胜&lt;/a&gt;），旨在提供大模型相关的入门编程参考。&lt;/p&gt;
 &lt;p&gt;通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。
 涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。&lt;/p&gt;
@@ -51,41 +51,41 @@
     
     <item>
       <title>Revisiting the Information Capacity of Neural Network Watermarks: Upper Bound Estimation and Beyond</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
+      <link>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <link>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcai-weidu-ppt-backdoor-attacks-on/</guid>
       <description></description>
     </item>
     

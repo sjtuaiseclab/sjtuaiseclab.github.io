@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨磊 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/index.xml" rel="self" type="application/rss+xml" />
     <description>杨磊</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/avatar_hu1768695101420668026.jpg</url>
+      <url>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/avatar_hu1768695101420668026.jpg</url>
       <title>杨磊</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</link>
+      <link>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</link>
     </image>
     
     <item>
       <title>Lip Feature Disentanglement for Visual Speaker Authentication in Natural Scenes</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
+      <link>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
+      <guid>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>杨磊</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</link>
+      <link>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E6%9D%A8%E7%A3%8A/</guid>
+      <guid>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</guid>
       <description>&lt;p&gt;杨磊，上海交通大学网络安全空间学院博士在读，导师为王士林教授，主要研究方向为唇语识别、唇语身份认证、语义分割等。&lt;/p&gt;
 &lt;p&gt;曾获上海交通大学B等优秀奖学金、全国大学生信息安全竞赛一等奖、华为奖学金、“一流网安”奖学金等。&lt;/p&gt;
 </description>
@@ -32,17 +32,17 @@
     
     <item>
       <title>Speaker-Adaptive Lipreading via Spatio-Temporal Information Learning</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-heyi-speaker-adaptive-lipreading-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
+      <link>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
+      <guid>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
       <description></description>
     </item>
     

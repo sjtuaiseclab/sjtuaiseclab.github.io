@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>孟魁 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%AD%9F%E9%AD%81/</link>
+      <atom:link href="http://localhost:1313/author/%E5%AD%9F%E9%AD%81/index.xml" rel="self" type="application/rss+xml" />
     <description>孟魁</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/avatar_hu17909155242528572624.png</url>
+      <url>http://localhost:1313/author/%E5%AD%9F%E9%AD%81/avatar_hu17909155242528572624.png</url>
       <title>孟魁</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%AD%9F%E9%AD%81/</link>
+      <link>http://localhost:1313/author/%E5%AD%9F%E9%AD%81/</link>
     </image>
     
   </channel>

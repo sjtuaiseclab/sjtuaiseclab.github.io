@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>方岭永 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
+      <atom:link href="http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>方岭永</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/avatar_hu10580870591329255901.png</url>
+      <url>http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/avatar_hu10580870591329255901.png</url>
       <title>方岭永</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
+      <link>http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
     </image>
     
     <item>
       <title>Multi-Grained Multimodal Interaction Network for Sentiment Analysis</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
+      <link>http://localhost:1313/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-fanglingyong-multi-grained-multimodal-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>方岭永</title>
-      <link>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
+      <link>http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</guid>
+      <guid>http://localhost:1313/author/%E6%96%B9%E5%B2%AD%E6%B0%B8/</guid>
       <description>&lt;p&gt;方岭永，上海交通大学网络安全空间学院硕士研究生，导师为刘功申教授，主要研究方向为多模态大语言模型、多模态情感分析等。&lt;/p&gt;
 &lt;p&gt;曾获&amp;quot;互联网+&amp;ldquo;大赛全国银奖、中国高校计算机大赛-网络技术挑战赛二等奖、校级优秀奖学金等。曾任上海交大区块链协会会长、创新创业协会副会长等。&lt;/p&gt;
 </description>
@@ -32,9 +32,9 @@
     
     <item>
       <title>Sense-aware BERT and Multi-task Fine-tuning for Multimodal Sentiment Analysis</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcnn-fanglingyong-sense-aware-bert-and/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘子涵 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>刘子涵</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/avatar_hu18407743572454539203.jpg</url>
+      <url>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/avatar_hu13908483216779064434.jpg</url>
       <title>刘子涵</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
     </image>
     
     <item>
       <title>An Auto-Encoder Based Method for Camera Fingerprint Compression</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
+      <link>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
       <description></description>
     </item>
     
     <item>
       <title>刘子涵</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E5%88%98%E5%AD%90%E6%B6%B5/</guid>
+      <guid>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</guid>
       <description>&lt;p&gt;刘子涵，上海交通大学网络空间安全学院硕士研究生，在王士林教授的指导下，当前主要研究方向为AI生成图像检测、深度伪造检测。&lt;/p&gt;
 &lt;p&gt;曾获得数学建模国赛一等奖、校级A类奖学金、上海交通大学优秀毕业生等荣誉。&lt;/p&gt;
 </description>
@@ -32,17 +32,17 @@
     
     <item>
       <title>Exploiting Complementary Dynamic Incoherence for DeepFake Video Detection</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
+      <link>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <guid>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Domain Local Characteristic Enhanced Deepfake Video Detection</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
+      <link>http://localhost:1313/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-accv-liuzihan-cross-domain-local-characteristic/</guid>
       <description></description>
     </item>
     

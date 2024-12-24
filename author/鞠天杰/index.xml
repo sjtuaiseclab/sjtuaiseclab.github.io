@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>鞠天杰 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
+      <atom:link href="http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>鞠天杰</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/avatar_hu719548148769588554.jpg</url>
+      <url>http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/avatar_hu719548148769588554.jpg</url>
       <title>鞠天杰</title>
-      <link>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
+      <link>http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
     </image>
     
     <item>
       <title>How Large Language Models Encode Context Knowledge? A Layer-Wise Probing Study</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-jutianjie-how-large-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>鞠天杰</title>
-      <link>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
+      <link>http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</guid>
+      <guid>http://localhost:1313/author/%E9%9E%A0%E5%A4%A9%E6%9D%B0/</guid>
       <description>&lt;p&gt;鞠天杰，上海交通大学网络安全空间学院博士在读，导师为刘功申，主要研究方向为大语言模型可解释性、知识编辑和自然语言智能体。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>自然语言处理中的探针可解释方法综述</title>
-      <link>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</link>
+      <link>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</guid>
+      <guid>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backdoor NLP Models via AI-Generated Text</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
+      <link>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-coling-weidu-backdoor-nlp-models-via/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
+      <link>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
+      <guid>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TIMS: A Novel Approach for Incrementally Few-Shot Text Instance Selection via Model Similarity</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
+      <link>http://localhost:1313/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
+      <guid>http://localhost:1313/publication/conference/2022-ijcnn-jutianjie-tims-a-novel-approach/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘灿 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%88%98%E7%81%BF/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E7%81%BF/index.xml" rel="self" type="application/rss+xml" />
     <description>刘灿</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/avatar_hu10831806223505189130.jpg</url>
+      <url>http://localhost:1313/author/%E5%88%98%E7%81%BF/avatar_hu10831806223505189130.jpg</url>
       <title>刘灿</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E7%81%BF/</link>
     </image>
     
     <item>
       <title>刘灿</title>
-      <link>https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/</link>
+      <link>http://localhost:1313/author/%E5%88%98%E7%81%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E5%88%98%E7%81%BF/</guid>
+      <guid>http://localhost:1313/author/%E5%88%98%E7%81%BF/</guid>
       <description>&lt;p&gt;刘灿，上海交通大学网络安全空间学院硕士研究生，导师为王士林教授，主要研究方向为人工智能、大模型智能体及其安全。&lt;/p&gt;
 &lt;p&gt;曾获国家奖学金、校三好学生、“一流网安”奖学金等。&lt;/p&gt;
 </description>

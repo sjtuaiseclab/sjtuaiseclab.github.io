@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>董凌众 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
+      <atom:link href="http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/index.xml" rel="self" type="application/rss+xml" />
     <description>董凌众</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/avatar_hu16064245730442851322.png</url>
+      <url>http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/avatar_hu16064245730442851322.png</url>
       <title>董凌众</title>
-      <link>https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
+      <link>http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
     </image>
     
     <item>
       <title>董凌众</title>
-      <link>https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
+      <link>http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E8%91%A3%E5%87%8C%E4%BC%97/</guid>
+      <guid>http://localhost:1313/author/%E8%91%A3%E5%87%8C%E4%BC%97/</guid>
       <description>&lt;p&gt;董凌众，上海交通大学网络安全空间学院硕士在读，由张倬胜老师和刘功申老师联合指导，主要研究方向为大模型智能体及安全。&lt;/p&gt;
 &lt;p&gt;曾获上海交通大学校级优秀毕业生、上海交通大学潍柴动力奖学金、上海交通大学B等优秀奖学金等荣誉。&lt;/p&gt;
 </description>

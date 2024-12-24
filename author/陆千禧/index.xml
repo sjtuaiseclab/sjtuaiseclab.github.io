@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陆千禧 | 人工智能安全实验室·上海交通大学</title>
-    <link>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
-      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
+      <atom:link href="http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/index.xml" rel="self" type="application/rss+xml" />
     <description>陆千禧</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/avatar_hu11739046575712893806.jpg</url>
+      <url>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/avatar_hu11739046575712893806.jpg</url>
       <title>陆千禧</title>
-      <link>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
+      <link>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
     </image>
     
     <item>
       <title>Personatalk: Preserving Personalized Dynamic Speech Style in Talking Face Generation</title>
-      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
+      <link>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
+      <guid>http://localhost:1313/publication/conference/2024-icip-luqianxi-personatalk-preserving-personalized-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>陆千禧</title>
-      <link>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
+      <link>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://sjtuaiseclab.github.io/author/%E9%99%86%E5%8D%83%E7%A6%A7/</guid>
+      <guid>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/</guid>
       <description>&lt;p&gt;陆千禧，上海交通大学网络空间安全学院硕士研究生，在王士林教授的指导下，当前主要研究方向为面向深度伪造攻击的唇语身份认证系统脆弱性研究。&lt;/p&gt;
 &lt;p&gt;曾获得全国大学生信息安全竞赛三等奖，上海交通大学C类奖学金等荣誉。曾担任人工智能导论课程助教工作。&lt;/p&gt;
 </description>
