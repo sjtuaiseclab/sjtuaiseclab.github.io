@@ -5,12 +5,109 @@
     <link>http://localhost:1313/event/</link>
       <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>近期事件</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu354889267872797375.png</url>
       <title>近期事件</title>
       <link>http://localhost:1313/event/</link>
     </image>
+    
+    <item>
+      <title>实验室参加ICASSP 2025苏州卫星会议</title>
+      <link>http://localhost:1313/event/icassp-suzhou/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/icassp-suzhou/</guid>
+      <description>&lt;p&gt;2025年5月23日至5月25日，上海交通大学人工智能安全实验室（AI Security Lab）何怡博士和杨磊博士参加了在苏州举办的第50届IEEE国际声学、语音与信号处理会议（International Conference on Acoustics, Speech and Signal Processing, ICASSP 2025）苏州卫星会议，并在会议上对实验室录用的5篇论文进行了现场报告。期间，实验室师生与国内外领域专家进行了深入交流，并在会场合影留念。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;picture&#34; srcset=&#34;
+               /event/icassp-suzhou/picture_hu10072445191543674446.webp 400w,
+               /event/icassp-suzhou/picture_hu7376386299507261020.webp 760w,
+               /event/icassp-suzhou/picture_hu9283266557464788897.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/icassp-suzhou/picture_hu10072445191543674446.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;ICASSP是由IEEE信号处理学会主办的年度旗舰会议，覆盖声学、语音、信号处理及其应用，是全球规模最大、最全面的学术盛会之一，也是音频与语音研究领域最具影响力的顶级国际会议。为方便部分无法前往印度主会场参会的学者，IEEE信号处理学会特别在中国苏州举办了ICASSP 2025卫星会议，吸引了来自全球学术界与工业界的1200余位专家学者，搭建了一个高水平的学术交流平台，聚焦音频与语音信号处理的前沿热点，共同推动领域创新发展。&lt;/p&gt;
+&lt;p&gt;在本次会议中，实验室参会师生围绕实验室录用的5篇论文进行了现场报告，内容涵盖深度伪造检测，视觉文本对齐，模型提取攻击，神经网络水印等多项研究成果。同时，师生们还就相关研究与现场领域专家和同行进行了深入的学术讨论。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;yihe-talk&#34; srcset=&#34;
+               /event/icassp-suzhou/yi-talk_hu10563877194536222767.webp 400w,
+               /event/icassp-suzhou/yi-talk_hu449570441980693214.webp 760w,
+               /event/icassp-suzhou/yi-talk_hu7768618968203957028.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/icassp-suzhou/yi-talk_hu10563877194536222767.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+何怡博士在会议中分享了实验室在视觉文本对齐领域的最新研究成果，该工作基于局部上下文特征提取和多任务学习技术，提出了一种视觉文本对齐框架，并与参会者进行了深入交流。同时，何怡博士也分享了实验室在神经网络水印领域的研究成果，利用训练过程中的成员信息实现黑盒模型水印编码。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;yang-talk&#34; srcset=&#34;
+               /event/icassp-suzhou/yang-talk_hu13199624994078977358.webp 400w,
+               /event/icassp-suzhou/yang-talk_hu1406983006174171543.webp 760w,
+               /event/icassp-suzhou/yang-talk_hu7000130252936655791.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/icassp-suzhou/yang-talk_hu13199624994078977358.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+此次会议展示了上海交通大学人工智能安全实验室在智能信号处理领域的扎实研究基础和持续创新能力，同时加深了与全球同行的学术交流与合作。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>《动手学大模型》系列编程实践教程</title>
