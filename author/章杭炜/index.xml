@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</link>
       <atom:link href="http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>章杭炜</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/avatar_hu2375751142081339410.jpg</url>
       <title>章杭炜</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Membership Encoding for Black-Box Neural Network Watermarking</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-zhanghangwei-membership-encoding-for-black/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-zhanghangwei-membership-encoding-for-black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>章杭炜</title>
       <link>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</guid>
       <description>&lt;p&gt;章杭炜，上海交通大学网络空间安全学院硕士研究生，当前主要研究方向为模型版权保护和深度神经网络水印。&lt;/p&gt;
 &lt;p&gt;本科期间曾在王士林教授的指导下获得了第十五届全国大学生信息安全竞赛作品赛二等奖。&lt;/p&gt;

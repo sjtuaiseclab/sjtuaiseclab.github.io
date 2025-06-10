@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>朱虹宇 | 人工智能安全实验室·上海交通大学</title>
+    <link>http://localhost:1313/author/%E6%9C%B1%E8%99%B9%E5%AE%87/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9C%B1%E8%99%B9%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>朱虹宇</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu354889267872797375.png</url>
+      <title>朱虹宇</title>
+      <link>http://localhost:1313/author/%E6%9C%B1%E8%99%B9%E5%AE%87/</link>
+    </image>
+    
+    <item>
+      <title>Efficient and Effective Model Extraction</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

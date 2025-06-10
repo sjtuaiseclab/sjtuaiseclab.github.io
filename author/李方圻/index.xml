@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/</link>
       <atom:link href="http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/index.xml" rel="self" type="application/rss+xml" />
     <description>李方圻</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/avatar_hu981931557760817706.jpg</url>
       <title>李方圻</title>
@@ -13,21 +13,45 @@
     </image>
     
     <item>
-      <title>Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</title>
-      <link>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
+      <title>Efficient and Effective Model Extraction</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membership Encoding for Black-Box Neural Network Watermarking</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-zhanghangwei-membership-encoding-for-black/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-zhanghangwei-membership-encoding-for-black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking the Fragility and Robustness of Fingerprints of Deep Neural Networks</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-lifangqi-rethinking-the-fragility-and/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-lifangqi-rethinking-the-fragility-and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>李方圻</title>
       <link>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/</guid>
       <description>&lt;p&gt;李方圻，上海交通大学网络空间安全学院博士研究生，当前主要研究方向为人工智能系统的安全性。&lt;/p&gt;
 &lt;p&gt;曾获得博士研究生国家奖学金、华为奖学金、小米奖学金、上海市优秀毕业生等荣誉，担任IEEE TDSC，TIFS，TNNLS，TFS，TAI，Pattern Recognition等期刊和AAAI等会议审稿人。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</title>
+      <link>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
+      <description></description>
     </item>
     
     <item>

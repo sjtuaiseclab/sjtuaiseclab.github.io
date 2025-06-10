@@ -3,11 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/conference/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/conference/2025-icassp-heyi-enhancing-visual-forced-alignment/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/conference/2025-icassp-zhanghangwei-membership-encoding-for-black/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/conference/2025-icassp-wanghanyi-mifae-forensics-masked-image/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/conference/2025-icassp-lifangqi-rethinking-the-fragility-and/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/%E4%BD%95%E6%80%A1/</loc>
-    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E7%8E%8B%E6%99%97%E4%BA%A6/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/%E6%9C%B1%E9%B8%BF%E5%AE%87/</loc>
+    <lastmod>2025-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/</loc>
@@ -18,27 +78,11 @@
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E6%9D%A8%E7%A3%8A/</loc>
-    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/conference/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/author/%E7%A8%8B%E5%BD%AD%E6%B4%B2/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +103,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/%E9%99%86%E5%8D%83%E7%A6%A7/</loc>
-    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/%E7%8E%8B%E5%A3%AB%E6%9E%97/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,19 +146,11 @@
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E7%8E%8B%E6%99%97%E4%BA%A6/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/event/dive-into-llm/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/%E6%9D%8E%E6%96%B9%E5%9C%BB/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -207,10 +239,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/%E8%83%A1%E5%98%89%E5%B0%9A/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -325,9 +353,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/%E5%BC%A0%E5%8D%93%E8%90%8C/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/%E7%AB%A0%E6%9D%AD%E7%82%9C/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

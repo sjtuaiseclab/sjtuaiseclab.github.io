@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
       <atom:link href="http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>刘子涵</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/avatar_hu13908483216779064434.jpg</url>
       <title>刘子涵</title>
@@ -13,21 +13,29 @@
     </image>
     
     <item>
-      <title>An Auto-Encoder Based Method for Camera Fingerprint Compression</title>
-      <link>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
+      <title>MIFAE-Forensics: Masked lmage-Frequency AutoEncoder for DeepFake Detection</title>
+      <link>http://localhost:1313/publication/conference/2025-icassp-wanghanyi-mifae-forensics-masked-image/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2025-icassp-wanghanyi-mifae-forensics-masked-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>刘子涵</title>
       <link>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/%E5%88%98%E5%AD%90%E6%B6%B5/</guid>
       <description>&lt;p&gt;刘子涵，上海交通大学网络空间安全学院硕士研究生，在王士林教授的指导下，当前主要研究方向为AI生成图像检测、深度伪造检测。&lt;/p&gt;
 &lt;p&gt;曾获得数学建模国赛一等奖、校级A类奖学金、上海交通大学优秀毕业生等荣誉。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An Auto-Encoder Based Method for Camera Fingerprint Compression</title>
+      <link>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/</guid>
+      <description></description>
     </item>
     
     <item>
