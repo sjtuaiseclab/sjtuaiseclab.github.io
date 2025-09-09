@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>张金宇 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
-      <atom:link href="http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/index.xml" rel="self" type="application/rss+xml" />
     <description>张金宇</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/avatar_hu18326232356370927857.png</url>
+      <url>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/avatar_hu18326232356370927857.png</url>
       <title>张金宇</title>
-      <link>http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
     </image>
     
     <item>
       <title>张金宇</title>
-      <link>http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E5%BC%A0%E9%87%91%E5%AE%87/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E5%BC%A0%E9%87%91%E5%AE%87/</guid>
       <description>&lt;p&gt;张金宇，上海交通大学网络安全空间学院硕士在读，在刘功申教授的指导下，当前主要研究方向为人工智能、自然语言处理。曾获上海交通大学致远荣誉奖学金等。&lt;/p&gt;
 </description>
     </item>

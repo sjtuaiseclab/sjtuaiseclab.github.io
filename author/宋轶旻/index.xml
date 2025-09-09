@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>宋轶旻 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
-      <atom:link href="http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/index.xml" rel="self" type="application/rss+xml" />
     <description>宋轶旻</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/avatar_hu3519553316561342438.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/avatar_hu3519553316561342438.jpg</url>
       <title>宋轶旻</title>
-      <link>http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
     </image>
     
     <item>
       <title>宋轶旻</title>
-      <link>http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E5%AE%8B%E8%BD%B6%E6%97%BB/</guid>
       <description>&lt;p&gt;宋轶旻，上海交通大学网络安全空间学院博士在读。导师为刘功申教授，主要研究方向为人工智能、内容安全。&lt;/p&gt;
 &lt;p&gt;曾获上海交通大学优秀毕业生、校三好学生等荣誉。&lt;/p&gt;
 </description>

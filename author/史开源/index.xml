@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>史开源 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
-      <atom:link href="http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>史开源</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/avatar_hu687799032556326436.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/avatar_hu687799032556326436.jpg</url>
       <title>史开源</title>
-      <link>http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
     </image>
     
     <item>
       <title>史开源</title>
-      <link>http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E5%8F%B2%E5%BC%80%E6%BA%90/</guid>
       <description>&lt;p&gt;史开源，上海交通大学信息安全专业本科生，在王士林教授的指导下，当前主要研究方向为神经网络水印、机器生成文本溯源。&lt;/p&gt;
 </description>
     </item>

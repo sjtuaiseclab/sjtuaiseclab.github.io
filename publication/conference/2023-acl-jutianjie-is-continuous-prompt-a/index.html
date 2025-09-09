@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025年6月10日 --><html lang="zh" >
+<!-- Last Published: 2025年9月9日 --><html lang="zh" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ff3189f83370d309a47d831ec72481f.css" />
 
   
   
@@ -241,6 +241,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXRW5LR0WH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HXRW5LR0WH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -280,8 +319,8 @@
 
 
 
-<link rel="alternate" hreflang="zh" href="http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
-<link rel="canonical" href="http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
 
 
 
@@ -311,7 +350,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png" />
 
 
 
@@ -319,9 +358,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/" />
 <meta property="og:title" content="Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="The broad adoption of continuous prompts has brought state-of-the-art results on a diverse array of downstream natural language processing (NLP) tasks. Nonetheless, little attention has been paid to the interpretability and transferability of continuous prompts. Faced with the challenges, we investigate the feasibility of interpreting continuous prompts as the weighting of discrete prompts by jointly optimizing prompt fidelity and downstream fidelity. Our experiments show that:: (1) one can always find a combination of discrete prompts as the replacement of continuous prompts that performs well on downstream tasks; (2) our interpretable framework faithfully reflects the reasoning process of source prompts; (3) our interpretations provide effective readability and plausibility, which is helpful to understand the decision-making of continuous prompts and discover potential shortcuts. Moreover, through the bridge constructed between continuous prompts and discrete prompts using our interpretations, it is promising to implement the cross-model transfer of continuous prompts without extra training signals. We hope this work will lead to a novel perspective on the interpretations of continuous prompts." /><meta property="og:image" content="http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png" /><meta property="og:locale" content="zh" />
+<meta property="og:description" content="The broad adoption of continuous prompts has brought state-of-the-art results on a diverse array of downstream natural language processing (NLP) tasks. Nonetheless, little attention has been paid to the interpretability and transferability of continuous prompts. Faced with the challenges, we investigate the feasibility of interpreting continuous prompts as the weighting of discrete prompts by jointly optimizing prompt fidelity and downstream fidelity. Our experiments show that:: (1) one can always find a combination of discrete prompts as the replacement of continuous prompts that performs well on downstream tasks; (2) our interpretable framework faithfully reflects the reasoning process of source prompts; (3) our interpretations provide effective readability and plausibility, which is helpful to understand the decision-making of continuous prompts and discover potential shortcuts. Moreover, through the bridge constructed between continuous prompts and discrete prompts using our interpretations, it is promising to implement the cross-model transfer of continuous prompts without extra training signals. We hope this work will lead to a novel perspective on the interpretations of continuous prompts." /><meta property="og:image" content="https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -354,12 +393,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/"
+    "@id": "https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/"
   },
   "headline": "Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts",
   
   "image": [
-    "http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png"
+    "https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/featured.png"
   ],
   
   "datePublished": "2023-07-09T00:00:00Z",
@@ -375,7 +414,7 @@
     "name": "人工智能安全研究实验室·上海交通大学",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17834559773789675546.png"
+      "url": "https://sjtuaiseclab.github.io/media/icon_hu17834559773789675546.png"
     }
   },
   "description": "The broad adoption of continuous prompts has brought state-of-the-art results on a diverse array of downstream natural language processing (NLP) tasks. Nonetheless, little attention has been paid to the interpretability and transferability of continuous prompts. Faced with the challenges, we investigate the feasibility of interpreting continuous prompts as the weighting of discrete prompts by jointly optimizing prompt fidelity and downstream fidelity. Our experiments show that:: (1) one can always find a combination of discrete prompts as the replacement of continuous prompts that performs well on downstream tasks; (2) our interpretable framework faithfully reflects the reasoning process of source prompts; (3) our interpretations provide effective readability and plausibility, which is helpful to understand the decision-making of continuous prompts and discover potential shortcuts. Moreover, through the bridge constructed between continuous prompts and discrete prompts using our interpretations, it is promising to implement the cross-model transfer of continuous prompts without extra training signals. We hope this work will lead to a novel perspective on the interpretations of continuous prompts."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -1175,7 +1214,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1256,7 +1295,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1270,11 +1309,11 @@
   
 
 
-<script src="/zh/js/wowchemy.min.js"></script>
+<script src="/zh/js/wowchemy.min.557ae1b19e3d8a236aaed52749d99f58.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1307,7 +1346,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

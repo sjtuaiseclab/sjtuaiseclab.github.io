@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈博凡 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
-      <atom:link href="http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>陈博凡</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/avatar_hu16573900309624877166.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/avatar_hu16573900309624877166.jpg</url>
       <title>陈博凡</title>
-      <link>http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
     </image>
     
     <item>
       <title>陈博凡</title>
-      <link>http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E9%99%88%E5%8D%9A%E5%87%A1/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E9%99%88%E5%8D%9A%E5%87%A1/</guid>
       <description>&lt;p&gt;陈博凡，上海交通大学网络空间安全学院博士研究生在读，当前主要研究方向为基于唇语特征的身份认证。&lt;/p&gt;
 </description>
     </item>

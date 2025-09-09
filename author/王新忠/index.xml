@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>王新忠 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
-      <atom:link href="http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/index.xml" rel="self" type="application/rss+xml" />
     <description>王新忠</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/avatar_hu1428086716724634056.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/avatar_hu1428086716724634056.jpg</url>
       <title>王新忠</title>
-      <link>http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
     </image>
     
     <item>
       <title>王新忠</title>
-      <link>http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E7%8E%8B%E6%96%B0%E5%BF%A0/</guid>
       <description>&lt;p&gt;王新忠，上海交通大学网络安全空间学院硕士在读，导师为刘功申，主要研究方向为人工智能，多模态。&lt;/p&gt;
 &lt;p&gt;曾获得第十五届全国大学生信息安全竞赛作品赛三等奖。&lt;/p&gt;
 </description>

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025年6月10日 --><html lang="zh" >
+<!-- Last Published: 2025年9月9日 --><html lang="zh" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ff3189f83370d309a47d831ec72481f.css" />
 
   
   
@@ -241,6 +241,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXRW5LR0WH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HXRW5LR0WH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -280,8 +319,8 @@
 
 
 
-<link rel="alternate" hreflang="zh" href="http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
-<link rel="canonical" href="http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
 
 
 
@@ -311,7 +350,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png" />
 
 
 
@@ -319,9 +358,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/" />
 <meta property="og:title" content="An Auto-Encoder Based Method for Camera Fingerprint Compression | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="Camera fingerprint links a picture to its camera sensor, which is widely applied in sensor device identification, social network tracing and forgery detection. However, such fingerprints are in high dimensionality and cost substantial memory and computing resources, limiting their uses in real-time processing on embedded devices. In this paper, we introduce a new method to compress high-dimensional floating-point fingerprints to low-dimensional binary features to save storage as well as maintaining their representative abilities. Also, we present a much faster approach to sensor device matching with hamming distance, compared with the commonly used Peak to Correlation Energy (PCE) distance. Our method contains two stages. First, raw fingerprints are compressed into low-dimensional features with our proposed grouping strategy and auto-encoder based model. Then, the compressed floating-point features are further converted into more compact binary features. Experiments show that our method achieves superior performance over several competitive compression methods in both identification and verification tasks." /><meta property="og:image" content="http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png" /><meta property="og:locale" content="zh" />
+<meta property="og:description" content="Camera fingerprint links a picture to its camera sensor, which is widely applied in sensor device identification, social network tracing and forgery detection. However, such fingerprints are in high dimensionality and cost substantial memory and computing resources, limiting their uses in real-time processing on embedded devices. In this paper, we introduce a new method to compress high-dimensional floating-point fingerprints to low-dimensional binary features to save storage as well as maintaining their representative abilities. Also, we present a much faster approach to sensor device matching with hamming distance, compared with the commonly used Peak to Correlation Energy (PCE) distance. Our method contains two stages. First, raw fingerprints are compressed into low-dimensional features with our proposed grouping strategy and auto-encoder based model. Then, the compressed floating-point features are further converted into more compact binary features. Experiments show that our method achieves superior performance over several competitive compression methods in both identification and verification tasks." /><meta property="og:image" content="https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -354,12 +393,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/"
+    "@id": "https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/"
   },
   "headline": "An Auto-Encoder Based Method for Camera Fingerprint Compression",
   
   "image": [
-    "http://localhost:1313/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png"
+    "https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhangkaixuan-an-auto-encoder-based/featured.png"
   ],
   
   "datePublished": "2023-05-04T00:00:00Z",
@@ -375,7 +414,7 @@
     "name": "人工智能安全研究实验室·上海交通大学",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17834559773789675546.png"
+      "url": "https://sjtuaiseclab.github.io/media/icon_hu17834559773789675546.png"
     }
   },
   "description": "Camera fingerprint links a picture to its camera sensor, which is widely applied in sensor device identification, social network tracing and forgery detection. However, such fingerprints are in high dimensionality and cost substantial memory and computing resources, limiting their uses in real-time processing on embedded devices. In this paper, we introduce a new method to compress high-dimensional floating-point fingerprints to low-dimensional binary features to save storage as well as maintaining their representative abilities. Also, we present a much faster approach to sensor device matching with hamming distance, compared with the commonly used Peak to Correlation Energy (PCE) distance. Our method contains two stages. First, raw fingerprints are compressed into low-dimensional features with our proposed grouping strategy and auto-encoder based model. Then, the compressed floating-point features are further converted into more compact binary features. Experiments show that our method achieves superior performance over several competitive compression methods in both identification and verification tasks."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -1096,7 +1135,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1177,7 +1216,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1191,11 +1230,11 @@
   
 
 
-<script src="/zh/js/wowchemy.min.js"></script>
+<script src="/zh/js/wowchemy.min.557ae1b19e3d8a236aaed52749d99f58.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1228,7 +1267,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

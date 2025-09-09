@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>郭俊杰 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/</link>
-      <atom:link href="http://localhost:1313/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>郭俊杰</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu354889267872797375.png</url>
+      <url>https://sjtuaiseclab.github.io/media/icon_hu354889267872797375.png</url>
       <title>郭俊杰</title>
-      <link>http://localhost:1313/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%83%AD%E4%BF%8A%E6%9D%B0/</link>
     </image>
     
     <item>
       <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
-      <link>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
       <description></description>
     </item>
     

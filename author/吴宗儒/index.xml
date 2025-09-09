@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>吴宗儒 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
-      <atom:link href="http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/index.xml" rel="self" type="application/rss+xml" />
     <description>吴宗儒</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/avatar_hu673285538012424586.png</url>
+      <url>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/avatar_hu673285538012424586.png</url>
       <title>吴宗儒</title>
-      <link>http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
     </image>
     
     <item>
       <title>Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space</title>
-      <link>http://localhost:1313/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-acl-wuzongru-acquiring-clean-language-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>吴宗儒</title>
-      <link>http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E5%90%B4%E5%AE%97%E5%84%92/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E5%90%B4%E5%AE%97%E5%84%92/</guid>
       <description>&lt;p&gt;吴宗儒，上海交通大学网络安全空间学院博士在读，导师为刘功申，主要研究方向为自然语言处理，人工智能安全，后门攻击与防御。&lt;/p&gt;
 &lt;p&gt;曾担任操作系统原理课程助教。曾获上海交通大学三好学生。担任ARR审稿人。&lt;/p&gt;
 </description>

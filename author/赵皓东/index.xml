@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赵皓东 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
-      <atom:link href="http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>赵皓东</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/avatar_hu10160179116686218826.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/avatar_hu10160179116686218826.jpg</url>
       <title>赵皓东</title>
-      <link>http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
     </image>
     
     <item>
       <title>Revisiting the Information Capacity of Neural Network Watermarks: Upper Bound Estimation and Beyond</title>
-      <link>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-aaai-lifangqi-revisiting-the-information-capacity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>赵皓东</title>
-      <link>http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E8%B5%B5%E7%9A%93%E4%B8%9C/</guid>
       <description>&lt;p&gt;赵皓东，&lt;a href=&#34;https://dongdongzhaoup.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;个人主页&lt;/a&gt;上海交通大学网络安全空间学院博士在读，导师为刘功申教授、张倬胜长聘教轨助理教授，主要研究方向为联邦学习、拆分学习、人工智能安全等。&lt;/p&gt;
 &lt;p&gt;曾获得85届计算机系教育发展基金暨杨元庆教育基金优秀本科生卓越奖学金、荣昶领导能力奖学金、上海市优秀毕业生、上海交通大学优秀学生党员等荣誉，担任TNNLS等期刊和ACL、AAAI等会议审稿人。&lt;/p&gt;
 </description>
@@ -32,33 +32,33 @@
     
     <item>
       <title>NWS: Natural Textual Backdoor Attacks via Word Substitution</title>
-      <link>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-weidu-nws-natural-textual-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is Continuous Prompt a Combination of Discrete Prompts? Towards a Novel View for Interpreting Continuous Prompts</title>
-      <link>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-acl-jutianjie-is-continuous-prompt-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedPrompt: Communication-Efficient and Privacy-Preserving Prompt Tuning in Federated Learning</title>
-      <link>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2023-icassp-zhaohaodong-fedprompt-communication-efficient-and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Universal Identity Backdoor Attack against Speaker Verification based on Siamese Network</title>
-      <link>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2022-interspeech-zhaohaodong-a-universial-identity-backdoor/</guid>
       <description></description>
     </item>
     

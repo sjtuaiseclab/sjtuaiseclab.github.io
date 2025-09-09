@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/publication-type/journal/</link>
-      <atom:link href="http://localhost:1313/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/publication-type/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu354889267872797375.png</url>
+      <url>https://sjtuaiseclab.github.io/media/icon_hu354889267872797375.png</url>
       <title>Journal</title>
-      <link>http://localhost:1313/publication-type/journal/</link>
+      <link>https://sjtuaiseclab.github.io/publication-type/journal/</link>
     </image>
     
     <item>
       <title>Lip Feature Disentanglement for Visual Speaker Authentication in Natural Scenes</title>
-      <link>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-tcsvt-yihe-lip-feature-disentanglement-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>自然语言处理中的探针可解释方法综述</title>
-      <link>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2024-cjc-a-review-of-probe/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2024-cjc-a-review-of-probe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Grained Lip Image Segmentation using Fuzzy Logic and Graph Reasoning</title>
-      <link>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tfs-yanglei-fine-grained-lip-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear Functionality Equivalence Attack against Deep Neural Network Watermarks and a Defense Method by Neuron Mapping</title>
-      <link>http://localhost:1313/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tifs-lifangqi-linear-functionality-equivalence-attack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Complementary Dynamic Incoherence for DeepFake Video Detection</title>
-      <link>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2023-tcsvt-wanghanyi-exploiting-complementary-dynamic-incoherence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DESC-IDS: Towards an Efficient Real-time Automotive Intrusion Detection System Based on Deep Evolving Stream Clustering</title>
-      <link>http://localhost:1313/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-fgcs-chengpengzhou-towards-an-efficient-real/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Intrusion Detection for IoT Systems with Full Bayesian Possibilistic Clustering and Ensembled Fuzzy Classifiers</title>
-      <link>http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</link>
+      <link>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/</guid>
       <description></description>
     </item>
     

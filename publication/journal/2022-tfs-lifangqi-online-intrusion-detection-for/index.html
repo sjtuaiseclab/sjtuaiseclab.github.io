@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025年6月10日 --><html lang="zh" >
+<!-- Last Published: 2025年9月9日 --><html lang="zh" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ff3189f83370d309a47d831ec72481f.css" />
 
   
   
@@ -241,6 +241,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXRW5LR0WH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HXRW5LR0WH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -280,8 +319,8 @@
 
 
 
-<link rel="alternate" hreflang="zh" href="http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
-<link rel="canonical" href="http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
 
 
 
@@ -311,7 +350,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png" />
 
 
 
@@ -319,9 +358,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/" />
 <meta property="og:title" content="Online Intrusion Detection for IoT Systems with Full Bayesian Possibilistic Clustering and Ensembled Fuzzy Classifiers | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="The pervasive deployment of the internet of things (IoT) has significantly facilitated manufacturing and living. The diversity and continual updates of IoT systems make their security a crucial challenge, among which the detection of malicious network traffic turns out to be the most common yet destructive threat. Despite the efforts on feature engineering and classification backend designing, established intrusion detection systems sometimes lack robustness and are inflexible against the shift of the traffic distribution. To deal with these disadvantages, we design a fuzzy system for the online defense of IoT. Our framework incorporates a full Bayesian possibilistic clustering module for feature processing and an ensemble module motivated by reinforcement learning and adaptive boosting that dynamically fits the streaming data. The proposed clustering module overcomes the issue of determining the number of clusters and can dynamically identify new patterns. The classifier backend combines a collection of fuzzy decision trees that provide readable decision boundaries. The ensembled classifiers can accommodate the drift of data distribution to optimize the long-time performance. Our proposal is tested on settings including one dataset collected from real IoT systems and is compared to numerous competitors. Experimental results verified the advantage of our system regarding accuracy and stability." /><meta property="og:image" content="http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png" /><meta property="og:locale" content="zh" />
+<meta property="og:description" content="The pervasive deployment of the internet of things (IoT) has significantly facilitated manufacturing and living. The diversity and continual updates of IoT systems make their security a crucial challenge, among which the detection of malicious network traffic turns out to be the most common yet destructive threat. Despite the efforts on feature engineering and classification backend designing, established intrusion detection systems sometimes lack robustness and are inflexible against the shift of the traffic distribution. To deal with these disadvantages, we design a fuzzy system for the online defense of IoT. Our framework incorporates a full Bayesian possibilistic clustering module for feature processing and an ensemble module motivated by reinforcement learning and adaptive boosting that dynamically fits the streaming data. The proposed clustering module overcomes the issue of determining the number of clusters and can dynamically identify new patterns. The classifier backend combines a collection of fuzzy decision trees that provide readable decision boundaries. The ensembled classifiers can accommodate the drift of data distribution to optimize the long-time performance. Our proposal is tested on settings including one dataset collected from real IoT systems and is compared to numerous competitors. Experimental results verified the advantage of our system regarding accuracy and stability." /><meta property="og:image" content="https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -354,12 +393,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/"
+    "@id": "https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/"
   },
   "headline": "Online Intrusion Detection for IoT Systems with Full Bayesian Possibilistic Clustering and Ensembled Fuzzy Classifiers",
   
   "image": [
-    "http://localhost:1313/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png"
+    "https://sjtuaiseclab.github.io/publication/journal/2022-tfs-lifangqi-online-intrusion-detection-for/featured.png"
   ],
   
   "datePublished": "2022-03-30T00:00:00Z",
@@ -375,7 +414,7 @@
     "name": "人工智能安全研究实验室·上海交通大学",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17834559773789675546.png"
+      "url": "https://sjtuaiseclab.github.io/media/icon_hu17834559773789675546.png"
     }
   },
   "description": "The pervasive deployment of the internet of things (IoT) has significantly facilitated manufacturing and living. The diversity and continual updates of IoT systems make their security a crucial challenge, among which the detection of malicious network traffic turns out to be the most common yet destructive threat. Despite the efforts on feature engineering and classification backend designing, established intrusion detection systems sometimes lack robustness and are inflexible against the shift of the traffic distribution. To deal with these disadvantages, we design a fuzzy system for the online defense of IoT. Our framework incorporates a full Bayesian possibilistic clustering module for feature processing and an ensemble module motivated by reinforcement learning and adaptive boosting that dynamically fits the streaming data. The proposed clustering module overcomes the issue of determining the number of clusters and can dynamically identify new patterns. The classifier backend combines a collection of fuzzy decision trees that provide readable decision boundaries. The ensembled classifiers can accommodate the drift of data distribution to optimize the long-time performance. Our proposal is tested on settings including one dataset collected from real IoT systems and is compared to numerous competitors. Experimental results verified the advantage of our system regarding accuracy and stability."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -1078,7 +1117,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1159,7 +1198,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1173,11 +1212,11 @@
   
 
 
-<script src="/zh/js/wowchemy.min.js"></script>
+<script src="/zh/js/wowchemy.min.557ae1b19e3d8a236aaed52749d99f58.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1210,7 +1249,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

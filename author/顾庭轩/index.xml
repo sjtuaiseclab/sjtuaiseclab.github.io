@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>顾庭轩 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
-      <atom:link href="http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>顾庭轩</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/avatar_hu4941349945870561881.png</url>
+      <url>https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/avatar_hu4941349945870561881.png</url>
       <title>顾庭轩</title>
-      <link>http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
     </image>
     
     <item>
       <title>顾庭轩</title>
-      <link>http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E9%A1%BE%E5%BA%AD%E8%BD%A9/</guid>
       <description>&lt;p&gt;顾庭轩，上海交通大学网络安全空间学院硕士在读，主要研究方向为人工智能。&lt;/p&gt;
 &lt;p&gt;曾获上海交通大学校级优秀奖学金。&lt;/p&gt;
 </description>

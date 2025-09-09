@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025年6月10日 --><html lang="zh" >
+<!-- Last Published: 2025年9月9日 --><html lang="zh" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ff3189f83370d309a47d831ec72481f.css" />
 
   
   
@@ -241,6 +241,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXRW5LR0WH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HXRW5LR0WH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -280,8 +319,8 @@
 
 
 
-<link rel="alternate" hreflang="zh" href="http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
-<link rel="canonical" href="http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
 
 
 
@@ -311,7 +350,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png" />
 
 
 
@@ -319,9 +358,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/" />
 <meta property="og:title" content="Efficient and Effective Model Extraction | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="Model extraction aims to steal a functionally similar copy from a machine learning as a service (MLaaS) API with minimal overhead, typically for illicit profit or as a precursor to further attacks, posing a significant threat to the MLaaS ecosystem. However, recent studies have shown that model extraction is highly inefficient, particularly when the target task distribution is unavailable. In such cases, even substantially increasing the attack budget fails to produce a sufficiently similar replica, reducing the adversary’s motivation to pursue extraction attacks. In this paper, we revisit the elementary design choices throughout the extraction lifecycle. We propose an embarrassingly simple yet dramatically effective algorithm, Efficient and Effective Model Extraction (E3), focusing on both query preparation and training routine. E3 achieves superior generalization compared to state-of-the-art methods while minimizing computational costs. For instance, with only 0.005× the query budget and less than 0.2× the runtime, E3 outperforms classical generative model based data-free model extraction by an absolute accuracy improvement of over 50% on CIFAR-10. Our findings underscore the persistent threat posed by model extraction and suggest that it could serve as a valuable benchmarking algorithm for future security evaluations." /><meta property="og:image" content="http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png" /><meta property="og:locale" content="zh" />
+<meta property="og:description" content="Model extraction aims to steal a functionally similar copy from a machine learning as a service (MLaaS) API with minimal overhead, typically for illicit profit or as a precursor to further attacks, posing a significant threat to the MLaaS ecosystem. However, recent studies have shown that model extraction is highly inefficient, particularly when the target task distribution is unavailable. In such cases, even substantially increasing the attack budget fails to produce a sufficiently similar replica, reducing the adversary’s motivation to pursue extraction attacks. In this paper, we revisit the elementary design choices throughout the extraction lifecycle. We propose an embarrassingly simple yet dramatically effective algorithm, Efficient and Effective Model Extraction (E3), focusing on both query preparation and training routine. E3 achieves superior generalization compared to state-of-the-art methods while minimizing computational costs. For instance, with only 0.005× the query budget and less than 0.2× the runtime, E3 outperforms classical generative model based data-free model extraction by an absolute accuracy improvement of over 50% on CIFAR-10. Our findings underscore the persistent threat posed by model extraction and suggest that it could serve as a valuable benchmarking algorithm for future security evaluations." /><meta property="og:image" content="https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -354,12 +393,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/"
+    "@id": "https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/"
   },
   "headline": "Efficient and Effective Model Extraction",
   
   "image": [
-    "http://localhost:1313/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png"
+    "https://sjtuaiseclab.github.io/publication/conference/2025-icassp-zhuhongyu-efficient-and-effective-model/featured.png"
   ],
   
   "datePublished": "2025-05-24T00:00:00Z",
@@ -375,7 +414,7 @@
     "name": "人工智能安全研究实验室·上海交通大学",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu17834559773789675546.png"
+      "url": "https://sjtuaiseclab.github.io/media/icon_hu17834559773789675546.png"
     }
   },
   "description": "Model extraction aims to steal a functionally similar copy from a machine learning as a service (MLaaS) API with minimal overhead, typically for illicit profit or as a precursor to further attacks, posing a significant threat to the MLaaS ecosystem. However, recent studies have shown that model extraction is highly inefficient, particularly when the target task distribution is unavailable. In such cases, even substantially increasing the attack budget fails to produce a sufficiently similar replica, reducing the adversary’s motivation to pursue extraction attacks. In this paper, we revisit the elementary design choices throughout the extraction lifecycle. We propose an embarrassingly simple yet dramatically effective algorithm, Efficient and Effective Model Extraction (E3), focusing on both query preparation and training routine. E3 achieves superior generalization compared to state-of-the-art methods while minimizing computational costs. For instance, with only 0.005× the query budget and less than 0.2× the runtime, E3 outperforms classical generative model based data-free model extraction by an absolute accuracy improvement of over 50% on CIFAR-10. Our findings underscore the persistent threat posed by model extraction and suggest that it could serve as a valuable benchmarking algorithm for future security evaluations."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -1048,7 +1087,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1129,7 +1168,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1143,11 +1182,11 @@
   
 
 
-<script src="/zh/js/wowchemy.min.js"></script>
+<script src="/zh/js/wowchemy.min.557ae1b19e3d8a236aaed52749d99f58.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1180,7 +1219,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

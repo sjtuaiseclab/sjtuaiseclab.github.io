@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025年6月10日 --><html lang="zh" >
+<!-- Last Published: 2025年9月9日 --><html lang="zh" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -73,7 +73,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -217,7 +217,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0ff3189f83370d309a47d831ec72481f.css" />
 
   
   
@@ -244,6 +244,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXRW5LR0WH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HXRW5LR0WH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -276,12 +315,12 @@
 
   
 
-<meta name="description" content="由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。" />
+<meta name="description" content="2025年5月23日至5月25日，上海交通大学人工智能安全实验室（AI Security Lab）何怡博士和杨磊博士参加了在苏州举办的第50届IEEE国际声学、语音与信号处理会议（International Conference on Acoustics, Speech and Signal Processing, ICASSP 2025）苏州卫星会议，并在会议上对实验室录用的5篇论文进行了现场报告。期间，实验室师生与国内外领域专家进行了深入交流，并在会场合影留念。" />
 
 
 
-<link rel="alternate" hreflang="zh" href="http://localhost:1313/event/icassp-suzhou/" />
-<link rel="canonical" href="http://localhost:1313/event/icassp-suzhou/" />
+<link rel="alternate" hreflang="zh" href="https://sjtuaiseclab.github.io/event/icassp-suzhou/" />
+<link rel="canonical" href="https://sjtuaiseclab.github.io/event/icassp-suzhou/" />
 
 
 
@@ -311,7 +350,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/event/icassp-suzhou/featured.jpg" />
+<meta property="twitter:image" content="https://sjtuaiseclab.github.io/event/icassp-suzhou/featured.jpg" />
 
 
 
@@ -319,9 +358,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="人工智能安全实验室·上海交通大学" />
-<meta property="og:url" content="http://localhost:1313/event/icassp-suzhou/" />
+<meta property="og:url" content="https://sjtuaiseclab.github.io/event/icassp-suzhou/" />
 <meta property="og:title" content="实验室参加ICASSP 2025苏州卫星会议 | 人工智能安全实验室·上海交通大学" />
-<meta property="og:description" content="由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。" /><meta property="og:image" content="http://localhost:1313/event/icassp-suzhou/featured.jpg" /><meta property="og:locale" content="zh" />
+<meta property="og:description" content="2025年5月23日至5月25日，上海交通大学人工智能安全实验室（AI Security Lab）何怡博士和杨磊博士参加了在苏州举办的第50届IEEE国际声学、语音与信号处理会议（International Conference on Acoustics, Speech and Signal Processing, ICASSP 2025）苏州卫星会议，并在会议上对实验室录用的5篇论文进行了现场报告。期间，实验室师生与国内外领域专家进行了深入交流，并在会场合影留念。" /><meta property="og:image" content="https://sjtuaiseclab.github.io/event/icassp-suzhou/featured.jpg" /><meta property="og:locale" content="zh" />
 
   
     <meta
@@ -351,13 +390,13 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/event/icassp-suzhou/"
+    "@id": "https://sjtuaiseclab.github.io/event/icassp-suzhou/"
   },
   "name": "实验室参加ICASSP 2025苏州卫星会议",
   
   
   "image": [
-    "http://localhost:1313/event/icassp-suzhou/featured.jpg"
+    "https://sjtuaiseclab.github.io/event/icassp-suzhou/featured.jpg"
   ],
   
   "startDate": "2025-05-23T00:00:00Z",
@@ -370,7 +409,7 @@
     "name": "何怡"
   },
   
-  "description": "由上海交通大学2024年春季《人工智能安全技术》课程（NIS3353）讲义拓展而来（教师：张倬胜），旨在提供大模型相关的入门编程参考。通过简单实践，帮助同学快速入门大模型，更好地开展课程设计或学术研究。涵盖微调与部署、提示学习与思维链、知识编辑、模型水印、越狱攻击、多模态模型、大模型智能体与安全等内容。"
+  "description": "2025年5月23日至5月25日，上海交通大学人工智能安全实验室（AI Security Lab）何怡博士和杨磊博士参加了在苏州举办的第50届IEEE国际声学、语音与信号处理会议（International Conference on Acoustics, Speech and Signal Processing, ICASSP 2025）苏州卫星会议，并在会议上对实验室录用的5篇论文进行了现场报告。期间，实验室师生与国内外领域专家进行了深入交流，并在会场合影留念。"
 }
 </script>
 
@@ -421,7 +460,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
 
   
 
@@ -921,7 +960,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F&amp;text=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F&amp;text=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -938,7 +977,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F&amp;t=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F&amp;t=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -957,7 +996,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP%202025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP%202025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE&amp;body=https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -974,7 +1013,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F&amp;title=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F&amp;title=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -991,7 +1030,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE%20http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE%20https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1008,7 +1047,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2Ficassp-suzhou%2F&amp;title=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fsjtuaiseclab.github.io%2Fevent%2Ficassp-suzhou%2F&amp;title=%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%82%E5%8A%A0ICASSP&#43;2025%E8%8B%8F%E5%B7%9E%E5%8D%AB%E6%98%9F%E4%BC%9A%E8%AE%AE" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1199,7 +1238,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -1280,7 +1319,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1294,11 +1333,11 @@
   
 
 
-<script src="/zh/js/wowchemy.min.js"></script>
+<script src="/zh/js/wowchemy.min.557ae1b19e3d8a236aaed52749d99f58.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1331,7 +1370,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

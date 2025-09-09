@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>闫超博 | 人工智能安全实验室·上海交通大学</title>
-    <link>http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
-      <atom:link href="http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
+      <atom:link href="https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
     <description>闫超博</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/avatar_hu2414692464437895018.jpg</url>
+      <url>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/avatar_hu2414692464437895018.jpg</url>
       <title>闫超博</title>
-      <link>http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
     </image>
     
     <item>
       <title>Data-Free Watermark for Deep Neural Networks by Truncated Adversarial Distillation</title>
-      <link>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
+      <link>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
+      <guid>https://sjtuaiseclab.github.io/publication/conference/2024-icassp-yanchaobo-data-free-watermark-for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>闫超博</title>
-      <link>http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
+      <link>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</guid>
+      <guid>https://sjtuaiseclab.github.io/author/%E9%97%AB%E8%B6%85%E5%8D%9A/</guid>
       <description>&lt;p&gt;闫超博，上海交通大学网络空间安全学院硕士研究生，导师为王士林教授。主要研究方向为深度学习模型版权保护、基于后门样本的模型水印、无数据依赖后门水印嵌入等。&lt;/p&gt;
 &lt;p&gt;曾获上海市优秀毕业生、上海交通大学优秀学生干部、上海交通大学优秀团干部、上海交通大学优秀团员、全国大学生信息安全竞赛三等奖、宝钢教育奖学金、上海交通大学C等优秀奖学金等。曾任上海交通大学电子信息与电气工程学院双肩挑辅导员，曾获评上海交通大学优秀辅导员。&lt;/p&gt;
 </description>
